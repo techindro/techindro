@@ -137,7 +137,7 @@
 
 <div align="center">
 
-### *"FAILURE is an option here,IF things are not FAILING , your are not innovating enough - Elon Musk
+### *"FAILURE is an option here, IF things are not FAILING , You are not innovating enough - Elon Musk
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
