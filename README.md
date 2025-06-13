@@ -135,8 +135,8 @@
 ### 💪 LeetCode Stats
 <img src="https://leetcode.card.workers.dev/techindro?theme=dark&font=baloo&extension=null&border=2&border_radius=8" alt="LeetCode Stats"/>
 
-### ⚔️ CodeWars Journey
-<img src="https://www.codewars.com/users/techindro/badges/large" alt="techindro Badge"/>
+### ⚔️ kaggle Stats
+<img src="https://www.kaggle.com/search" alt="techindro Badge"/>
 
 ### 🏅 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=techindro&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
