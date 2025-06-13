@@ -137,7 +137,7 @@
 
 <div align="center">
 
-### *"Innovation through Education, Technol
+### *"Failing is an option here,IF things are not failing , your are not innovating enough - Elon Musk
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
