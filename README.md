@@ -1,115 +1,70 @@
-<img src="https://ibb.co/p6H2wXfs" alt="banner" width="100%"/>
+<!-- Banner Image -->
+<img src="https://i.ibb.co/3TQ5J6Y/github-banner.png" alt="Shubham Patel Banner" width="100%"/>
 
+<!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Shubham Patel (techindro)</h1>
-<h3 align="center">🚀 Social Media Influencer | 👨‍🏫 Educator | 💡 Tech Enthusiast</h3>
+<h3 align="center">🚀 Android & Full-Stack Developer | 👨‍🏫 Educator | 📱 50K+ Followers</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078FF&center=true&vCenter=true&width=435&lines=Android+%7C+MERN+%7C+Cloud+%7C+AI+%7C+Design;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Android+Expert;MERN+Stack+Developer;AWS+Certified;AI+Enthusiast;Open+Source+Contributor" alt="Typing Animation"/>
 </p>
 
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://twitter.com/techindro"><img src="https://img.shields.io/twitter/follow/techindro?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/shubhampateltechindro"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://instagram.com/tech.indro"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/goinfinitymotivationword"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" /></a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 💬 Ask me about **Android, MERN, Cloud, AI, UI/UX**
-- 🎯 Currently working on: <b>EdTech Projects & Social Media Growth</b>
-- 📫 Reach me at: <a href="mailto:anyoneenemy@gmail.com">anyoneenemy@gmail.com</a>
-- 🌏 Portfolio: [techindros.websites.co.in](https://techindros.websites.co.in)
-
----
-
-## 🤖 AI Chatbot Project
-
-[![Try the Chatbot](https://img.shields.io/badge/Try%20the%20Chatbot-Online-brightgreen?style=for-the-badge&logo=vercel)](https://your-chatbot-demo-link.com)
-
-A modern, full-featured AI chatbot built with Next.js and the Vercel AI SDK, supporting multiple LLMs and advanced chat features.
-
-- 🌐 [Live Demo](https://your-chatbot-demo-link.com)
-- 💻 [Source Code](https://github.com/yourusername/your-chatbot-repo)
-
-> 💡 This chatbot is trained on my GitHub repositories. Ask it anything about my code or documentation!
-
-![AI Chatbot Screenshot](https://your-image-link.com/ai-chatbot-demo.png)
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,aws,azure,blender,c,cpp,css,figma,gcp,git,html,ai,java,js,kotlin,linux,mongodb,mysql,nodejs,pandas,ps,php,python,pytorch,tensorflow,unity" />
+  <a href="https://twitter.com/techindro">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shubhampateltechindro">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/tech.indro">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/c/goinfinitymotivationword">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://techindro.com">
+    <img src="https://img.shields.io/badge/-Portfolio-4E2A84?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats & Activity
+## � About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techindro&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techindro&layout=compact&theme=tokyonight" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techindro&theme=tokyonight" width="60%" />
-</p>
-<p align="center">
-  <img src="https://github.com/techindro/techindro/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-<p align="center">
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=techindro&style=flat-square)
-</p>
+```kotlin
+data class AboutMe(
+    val name: String = "Shubham Patel",
+    val expertise: List<String> = listOf("Android", "Cloud", "AI"),
+    val currentFocus: String = "Building AI-powered educational tools",
+    val funFact: String = "Started coding with 'Hello World' in 2015"
+)
+🔭 Currently working on: AI-powered EdTech solutions
 
----
+🌱 Learning: Advanced TensorFlow and Jetpack Compose
 
-## 🚀 Featured Projects
+👯 Looking to collaborate on impactful open-source projects
 
-- [Project 1](https://github.com/techindro/project1) – Advanced AI Chatbot for EdTech.
-- [Project 2](https://github.com/techindro/project2) – MERN-based Social Media Analytics Dashboard.
+💬 Ask me about: Android Architecture or Content Creation
 
----
+📫 How to reach me: shubham@techindro.com
 
-## 📢 Latest Blog Posts
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+🚀 Live Integrations
+🤖 AI Chat Assistant
+https://img.shields.io/badge/Chat_With_My_AI-FF6B00?style=for-the-badge&logo=vercel&logoColor=white
 
----
+// Example API usage
+const response = await fetch('https://api.techindro.com/chat', {
+  method: 'POST',
+  body: JSON.stringify({
+    question: "What's your experience with Jetpack Compose?"
+  })
+});
 
-## 🌐 Connect With Me
+#🐍 Contribution Snake
+https://raw.githubusercontent.com/techindro/output/main/github-contribution-grid-snake.svg
 
-<p align="center">
-  <a href="https://twitter.com/techindro"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>
-  <a href="https://linkedin.com/in/shubhampateltechindro"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
-  <a href="https://instagram.com/tech.indro"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
-  <a href="https://www.youtube.com/c/goinfinitymotivationword"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" /></a>
-</p>
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🏅 Top Contributor on multiple coding platforms
-- 🧑‍🏫 Hosted 30+ workshops on tech & social media
-- 📈 Built a community of 50k+ learners and followers
-
----
-
-## ✨ Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-<details>
-  <summary>More About Me</summary>
-  <p>
-    🔭 Currently learning advanced AI and cloud-native development.<br>
-    💡 Open to collaborations on impactful tech projects.<br>
-    🥇 Hackathon winner and open source contributor.
-  </p>
-</details>
+(Updates daily via GitHub Actions)
