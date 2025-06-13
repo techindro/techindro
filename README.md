@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80" alt="banner" width="100%"/>
+<img src="banner.jpg" alt="banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Shubham Patel (techindro)</h1>
 <h3 align="center">🚀 Social Media Influencer | 👨‍🏫 Educator | 💡 Tech Enthusiast</h3>
