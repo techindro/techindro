@@ -3,7 +3,7 @@
 
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Shubham Patel (techindro)</h1>
-<h3 align="center">🚀 Android & Full-Stack Developer | 👨‍🏫 Educator | 📱 50K+ Followers</h3>
+<h3 align="center">🚀 AIML & Full-Stack Developer | 👨‍🏫 Educator | 📱 90K+ Followers</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -41,6 +41,94 @@ data class AboutMe(
     val funFact: String = "Started coding with 'Hello World' in 2015"
 )
 🔭 Currently working on: AI-powered EdTech solutions
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=android,kotlin,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,aws,azure,gcp,docker,kubernetes,tensorflow,pytorch,figma,git,github,vscode,idea" alt="Tech Stack"/> </p>
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=techindro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=techindro&theme=radical" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techindro&layout=compact&theme=radical&hide=html,css&langs_count=8" width="60%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techindro&theme=radical" width="100%"/> </div>
+🏆 Featured Projects
+Project	Description	Tech	Live
+EduAI	AI Learning Assistant	Python, TensorFlow	Demo
+SocialDash	Analytics Dashboard	MERN Stack	Demo
+DevWallet	Crypto Manager	Kotlin, Firebase	Play Store
+📝 Latest Content
+<!-- BLOG-POST-LIST:START -->
+Jetpack Compose State Management - Aug 2023
+
+Building Auto-Updating GitHub Profile - July 2023
+
+AWS Lambda Cost Optimization - June 2023
+
+<!-- BLOG-POST-LIST:END -->
+🏅 Achievements
+diff
++ 2023: AWS Community Builder
++ 2022: Google Dev Expert Nominee
++ 2021: 1st Place - HackTheNorth
++ 2020: Reached 50K Followers
+🤝 Let's Connect
+<p align="center"> <a href="mailto:shubham@techindro.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" title="Email"/> </a> <a href="https://calendly.com/techindro"> <img src="https://img.icons8.com/color/48/000000/calendar.png" width="40" title="Schedule Meeting"/> </a> <a href="https://techindro.com/discord"> <img src="https://img.icons8.com/color/48/000000/discord.png" width="40" title="Discord"/> </a> <a href="https://github.com/techindro"> <img src="https://img.icons8.com/color/48/000000/github.png" width="40" title="GitHub"/> </a> </p>
+🔄 Recent Activity
+<!--START_SECTION:activity-->
+🎉 Merged PR #23 in eduai
+
+🚀 Released v1.4.0 of devwallet
+
+📝 Published blog on Jetpack Compose
+
+<!--END_SECTION:activity-->
+python
+# My First Python Code (2015)
+def greet():
+    print("Hello World!")
+    
+class CurrentProjects:
+    def __init__(self):
+        self.project = "AI Learning Platform"
+        self.tech = ["TensorFlow", "Next.js", "Firebase"]
+"Code is poetry. Write it beautifully." - My development philosophy
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile+Views&color=blueviolet&style=flat" alt="Visitor Counter"/> </p> ```
+Implementation Notes:
+For Snake Animation:
+
+Create .github/workflows/snake.yml with:
+
+yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: techindro
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+For Activity Feed:
+
+Add GitHub Action workflow to update activity automatically
+
+For Blog Posts:
+
+Use RSS feed or GitHub Actions to fetch latest posts
+
+This README includes:
+✅ Auto-updating components
+✅ Interactive elements
+✅ Clean, organized sections
+✅ Real code examples
+✅ Responsive design
+✅ Dark/Light mode friendly
+✅ Professional branding
+
 
 🌱 Learning: Advanced TensorFlow and Jetpack Compose
 
