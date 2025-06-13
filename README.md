@@ -36,6 +36,14 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,aws&theme=dark" alt="Frameworks"/>
 </p>
 
+### Video Editing & Content Creation
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/davinci-resolve.svg" width="48" height="48" alt="DaVinci Resolve"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="Premiere Pro"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" width="48" height="48" alt="After Effects"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/filmora-wondershare.svg" width="48" height="48" alt="Filmora"/>
+</p>
+
 ### Specializations
 **AI/ML** • **Space Tech** • **Robotics** • **Mobile Dev** • **Cloud Computing** • **Data Analytics**
 
