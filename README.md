@@ -152,17 +152,8 @@ const developer = {
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|------------|----------------|----------------|----------|
-| **EduAI** | AI Learning Assistant for personalized education | Python, TensorFlow, React | [Demo](https://eduai-demo.com) • [Code](https://github.com/techindro/eduai) |
-| **SocialDash** | Social Media Analytics Dashboard | MERN Stack, Chart.js | [Live](https://socialdash.techindro.com) • [Code](https://github.com/techindro/socialdash) |
-| **DevWallet** | Cryptocurrency Portfolio Manager | Kotlin, Firebase, CoinGecko API | [Play Store](https://play.google.com/store/apps/details?id=com.techindro.devwallet) • [Code](https://github.com/techindro/devwallet) |
-| **AI Chat Bot** | Intelligent chatbot with NLP capabilities | Node.js, OpenAI API, Socket.io | [Demo](https://chatbot.techindro.com) • [Code](https://github.com/techindro/ai-chatbot) |
-
-</div>
 
 ---
-
 ## 🎯 Coding Challenges & Achievements
 
 <div align="center">
@@ -171,7 +162,7 @@ const developer = {
 <img src="https://leetcode.card.workers.dev/techindro?theme=dark&font=baloo&extension=null&border=2&border_radius=8" alt="LeetCode Stats"/>
 
 ### ⚔️ CodeWars Journey
-<img src="https://www.codewars.com/users/techindro/badges/large" alt="CodeWars Badge"/>
+<img src="https://www.codewars.com/users/techindro/badges/large" alt="techindro Badge"/>
 
 ### 🏅 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=techindro&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -190,49 +181,11 @@ const developer = {
 🧪 Testing          ███████░░░░░░░░░░░░░░   32.4%
 ```
 
----
-
-## 🌟 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Jetpack Compose State Management](https://techindro.com/jetpack-compose-state) - Aug 2023
-- 🤖 [Building Auto-Updating GitHub Profile](https://techindro.com/github-profile-automation) - July 2023
-- ☁️ [AWS Lambda Cost Optimization](https://techindro.com/aws-lambda-optimization) - June 2023
-- 🎨 [Android UI/UX Best Practices](https://techindro.com/android-ui-best-practices) - May 2023
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🎨 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/techindro/techindro/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
-
----
-
-## 💼 Professional Experience
-
-```mermaid
-timeline
-    title Career Journey
-    
-    2019 : Junior Developer
-         : Started with web development
-         : Learned React and Node.js
-    
-    2020 : Full-Stack Developer
-         : Built scalable applications
-         : Mastered cloud platforms
-    
-    2022 : Senior Developer
-         : Led development teams
-         : Architected microservices
-    
-    2024 : Tech Lead
-         : AI/ML integration
-         : Mentoring developers
-```
 
 ---
 
@@ -284,7 +237,6 @@ timeline
 </div>
 
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
   
