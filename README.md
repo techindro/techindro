@@ -35,20 +35,6 @@ Steve Jobs"
 
 </td>
 <td width="50%">
-
-### 📈 Impact Metrics
-```ascii
-┌─────────────────────────────────┐
-│  🚀 CURRENT ACHIEVEMENTS        │
-├─────────────────────────────────┤
-│  📱 Apps Downloaded: 1M+        │
-│  👥 Community Size: 90K+        │
-│  🎓 Students Taught: 5K+        │
-│  ⭐ GitHub Stars: 2K+           │
-│  🏆 Hackathons Won: 15+         │
-│  📝 Articles Written: 200+      │
-│  🎤 Talks Delivered: 50+        │
-└─────────────────────────────────┘
 ```
 
 </td>
@@ -118,14 +104,6 @@ Steve Jobs"
   <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,dart,react&theme=dark&perline=6" alt="Mobile"/>
 </p>
 
-**Android Expertise:**
-- 🎨 Jetpack Compose
-- 🏗️ MVVM Architecture
-- 🔧 Dependency Injection (Hilt/Dagger)
-- 🌐 Retrofit & Networking
-- 💾 Room Database
-- 🔔 Firebase Integration
-
 </details>
 
 </div>
@@ -175,38 +153,9 @@ Steve Jobs"
 
 </td>
 <td width="33%">
-
-### 📊 **Platform Stats**
-```ascii
-┌─────────────────────┐
-│   📈 GROWTH METRICS │
-├─────────────────────┤
-│ 📱 Play Store       │
-│   Downloads: 1M+    │
-│                     │
-│ 🎥 YouTube          │
-│   Subscribers: 45K+ │
-│                     │
-│ 📝 Medium           │
-│   Followers: 12K+   │
-│                     │
-│ 🐦 Twitter          │
-│   Engagement: 90%   │
-└─────────────────────┘
-```
-
+  
 </td>
 <td width="33%">
-
-### 🎖️ **Recognition**
-**🏆 Awards & Honors:**
-- 🥇 **Google Developer Expert** Nominee
-- 🌟 **GitHub Star** Program
-- 🏅 **Top Contributor** - Stack Overflow
-- 🎯 **Hackathon Champion** (15x)
-- 📚 **Tech Educator** of the Year
-- 🚀 **Innovation Award** - TechFest 2024
-
 </td>
 </tr>
 </table>
@@ -263,11 +212,6 @@ Steve Jobs"
 - Architecture: MVVM + Clean Architecture
 - Backend: Firebase + Custom API
 - AI: Machine Learning predictions
-
-**🏆 Achievements**: 
-- 4.8/5 Play Store Rating
-- Featured in "Best Apps of 2024"
-- 500K+ Downloads in 6 months
 
 **⚡ Key Features**:
 - 📈 Smart expense tracking
