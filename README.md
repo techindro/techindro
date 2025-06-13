@@ -1,4 +1,4 @@
-# 🚀 Advanced Developer Profile
+# 🚀 My Profile
 
 <!-- Banner Image -->
 <div align="center">
@@ -44,32 +44,6 @@
 ## 🎯 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF"/>
-
-```javascript
-const developer = {
-    name: "Shubham Patel",
-    role: "AIML & Full-Stack Developer",
-    location: "India",
-    experience: "5+ years",
-    followers: "90K+",
-    
-    currentFocus: [
-        "AI-powered EdTech solutions",
-        "Android development with Kotlin",
-        "MERN stack applications",
-        "AWS cloud architecture"
-    ],
-    
-    philosophy: "Code is poetry. Write it beautifully.",
-    
-    expertise: {
-        android: "Expert",
-        mernStack: "Advanced",
-        aiMl: "Proficient",
-        cloudComputing: "AWS Certified"
-    }
-};
-```
 
 ### 🚀 What I'm Currently Working On
 - 🔭 **Building**: AI-powered EdTech solutions
