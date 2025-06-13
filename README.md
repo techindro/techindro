@@ -1,4 +1,4 @@
-# 🌟 Shubham Patel | Tech Visionary | Entrepreneurship
+# 🌟 Shubham Patel(Mom.os) | 📍Social media influencer & Educator | AI & Space Enthusiast 🚀| Robotics 🤖 EV Systems 🛰️| Motivational Speaker🎙️| Digital Marketing 🛒| Business analytics 💼 | Aspire GRE 🇮🇳 सत्यमेव जयते 🫡
 
 <div align="center">
   <img src="![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tech%20Indro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)" width="100%"/>
