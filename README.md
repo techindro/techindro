@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tech%20Indro&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Space%20Tech%20%7C%20Robotics%20%7C%20Education&descSize=20&descAlignY=55" width="100%"/>
+</div>
+
 # Hi 👋, I'm Shubham Patel (Tech Indro)
 ### AI Enthusiast | Space Tech 🛰️ | Robotics 🤖 | Educational Creator 🎓
 
@@ -101,12 +105,44 @@
 
 ---
 
+## 💭 Inspiration
+
 <div align="center">
 
-### *"Innovation through Education, Technology for Humanity"*
+### Icons of Innovation
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/220px-Elon_Musk_2015.jpg" width="120" style="border-radius: 50%"/><br>
+<b>Elon Musk</b><br>
+<i>"The first step is to establish that something is possible; then probability will occur."</i>
+</td>
+<td align="center" width="33%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/220px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg" width="120" style="border-radius: 50%"/><br>
+<b>Steve Jobs</b><br>
+<i>"Innovation distinguishes between a leader and a follower."</i>
+</td>
+<td align="center" width="33%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg" width="120" style="border-radius: 50%"/><br>
+<b>Stephen Hawking</b><br>
+<i>"Intelligence is the ability to adapt to change."</i>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Innovation through Education, Technol
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
 **सत्यमेव जयते** 🇮🇳
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
 
 </div>
