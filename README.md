@@ -105,6 +105,9 @@
 
 ---
 
+### Specializations
+**🤖 AI/ML Engineering** • **🛰️ Space Technology** • **⚡ Robotics & IoT** • **📱 Mobile Development** • **☁️ Entrepreneurship** • **📊 Data Analytics** • **🎨 Creative Design** • **📈 Trading Systems** • **🎬 Content Creation** • **🎯 UI/UX Design**
+
 ## 💭 Inspiration
 
 <div align="center">
