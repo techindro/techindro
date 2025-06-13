@@ -1,45 +1,20 @@
-# 🚀 Shubham Patel (Tech Indro) 
-### 📍 AI Enthusiast | Space Tech 🛰️ | Robotics 🤖 | Educational Creator 🎓 | 90K+ Community 🌟
+# Hi 👋, I'm Shubham Patel (Tech Indro)
+### AI Enthusiast | Space Tech 🛰️ | Robotics 🤖 | Educational Creator 🎓
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tech%20Indro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
-
-<div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%F0%9F%A4%96+AI%2FML+Engineer+%7C+Space+Tech+Enthusiast;%F0%9F%9A%80+Educational+Creator+%7C+90K%2B+Community;%E2%9A%A1+Innovation+through+Technology" alt="Dynamic Typing"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Space+Tech+Enthusiast;Educational+Creator;90K%2B+Community" alt="Typing Animation"/>
 </div>
 
 ---
 
-## 🎯 What I Do
+## 🎯 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Core Expertise
-- 🤖 **AI/ML Development**
-- 🛰️ **Space Technology**
-- ⚡ **EV Systems & Robotics**
-- 📱 **Mobile App Development**
-- 🎓 **Educational Content**
-- 💼 **Business Analytics**
-
-</td>
-<td width="50%">
-
-### 📊 Impact
-- 🌟 **90K+ Community Members**
-- 🎥 **Educational Creator**
-- 🎤 **Motivational Speaker**
-- 💡 **Tech Consultant**
-- 🚀 **Innovation Advocate**
-
-</td>
-</tr>
-</table>
+- 🤖 **AI/ML Development** - Building intelligent solutions
+- 🛰️ **Space Technology** - Satellite systems & automation
+- ⚡ **EV Systems & Robotics** - Innovation in mobility
+- 📱 **Mobile App Development** - Android & cross-platform
+- 🎓 **Educational Creator** - 90K+ community members
+- 💼 **Tech Consultant** - Business analytics & strategy
 
 ---
 
@@ -47,139 +22,91 @@
 
 <div align="center">
 
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,react,nodejs,tensorflow,pytorch,aws&theme=dark&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,java,cpp,c&theme=dark" alt="Languages"/>
 </p>
 
-**Specializations:** AI/ML • Space Tech • Robotics • Mobile Dev • Cloud • Data Analytics
+### Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,aws&theme=dark" alt="Frameworks"/>
+</p>
+
+### Specializations
+**AI/ML** • **Space Tech** • **Robotics** • **Mobile Dev** • **Cloud Computing** • **Data Analytics**
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techindro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techindro&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=techindro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techindro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=techindro&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techindro&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Education Platform
-**Tech:** React, Python, TensorFlow  
-**Impact:** 90K+ learners  
-**Focus:** Democratizing AI education
-
-</td>
-<td width="50%">
-
-### 🚀 Space Tech Solutions
-**Tech:** IoT, Robotics, ML  
-**Focus:** Satellite systems & automation  
-**Specialty:** EV integration
-
-</td>
-</tr>
-</table>
+| Project | Tech Stack | Impact |
+|---------|------------|--------|
+| 🤖 **AI Education Platform** | React, Python, TensorFlow | 90K+ learners |
+| 🚀 **Space Tech Solutions** | IoT, Robotics, ML | Satellite automation |
+| ⚡ **EV Integration Systems** | Kotlin, Python, Cloud | Smart mobility |
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<p>
-  <a href="https://youtube.com/c/goinfinitymotivationword">
-    <img src="https://img.shields.io/badge/🎥_YouTube-Educational_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/shubhampateltechindro">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://instagram.com/tech.indro">
-    <img src="https://img.shields.io/badge/📸_Instagram-Tech_Content-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/techindro">
-    <img src="https://img.shields.io/badge/🐦_Twitter-Tech_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
+<a href="https://youtube.com/c/goinfinitymotivationword">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://linkedin.com/in/shubhampateltechindro">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/tech.indro">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/techindro">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
 
 </div>
 
 ---
 
-## 🎯 Services
+## 💡 Services
 
-<div align="center">
-
-**🤖 AI/ML Consulting** • **🎓 Tech Education** • **🎤 Speaking** • **💼 Business Analytics** • **🚀 Innovation Strategy**
-
-</div>
+- 🤖 **AI/ML Consulting** - Custom solutions development
+- 🎓 **Tech Education** - Training & mentorship
+- 🎤 **Speaking Engagements** - Tech talks & workshops
+- 💼 **Business Analytics** - Data-driven insights
+- 🚀 **Innovation Strategy** - Technology roadmaps
 
 ---
 
-## ⚡ Quick Facts
+## 📫 Get In Touch
 
-<table>
-<tr>
-<td width="25%">
-
-**🎯 Focus**
-- AI/ML Projects
-- Space Technology
-- Educational Content
-
-</td>
-<td width="25%">
-
-**📊 Stats**
-- 90K+ Community
-- Regular Content
-- Active Mentoring
-
-</td>
-<td width="25%">
-
-**🛠️ Skills**
-- Full-Stack Dev
-- Data Science
-- Cloud Solutions
-
-</td>
-<td width="25%">
-
-**🌟 Goal**
-- Tech Education
-- Innovation
-- Community Impact
-
-</td>
-</tr>
-</table>
+- 📧 Email: anyoneenemy@gmail.com
+- 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**
+- 🌟 Fun fact: Building the future through education and technology!
 
 ---
 
 <div align="center">
 
-### 💫 *"Innovation through Education, Technology for Humanity"*
-
-**सत्यमेव जयते** 🇮🇳
+### *"Innovation through Education, Technology for Humanity"*
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=14&descAlignY=70" width="100%"/>
+**सत्यमेव जयते** 🇮🇳
 
 </div>
