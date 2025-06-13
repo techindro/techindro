@@ -6,7 +6,8 @@
 
 <div align="center">
   
-### 💫 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+### 💫 *"Everyone should know how to program a computer, because it teaches you how to think."
+Steve Jobs"
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%80+AI%2FML+Engineer+%7C+Full-Stack+Architect;%F0%9F%93%B1+Android+Expert+%7C+90K%2B+Community+Builder;%F0%9F%8E%AF+Turning+Ideas+into+Digital+Reality;%E2%9A%A1+Innovation+through+Code+%26+Creativity" alt="Dynamic Typing"/>
 
