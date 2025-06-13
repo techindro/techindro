@@ -38,7 +38,7 @@
 
 ### Video Editing & Content Creation
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/davinci-resolve.svg" width="48" height="48" alt="DaVinci Resolve"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ADaVinci_Resolve_Studio.png&psig=AOvVaw1YwHR0nmXLoItmAvtQkO4H&ust=1749870032834000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjs-5-07Y0DFQAAAAAdAAAAABAE" width="48" height="48" alt="DaVinci Resolve"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" width="48" height="48" alt="After Effects"/>
   <img src="https://cdn.worldvectorlogo.com/logos/filmora-wondershare.svg" width="48" height="48" alt="Filmora"/>
