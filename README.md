@@ -171,8 +171,4 @@
 **सत्यमेव जयते** 🇮🇳
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
-
-<img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="80" alt="Flying Rocket"/>
-<img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="80" alt="Flying Drone"/>
-
 </div>
