@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12&height=220&section=header&text=Tech%20Indro&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20AI%20%7C%20🛰️%20Space%20Tech%20%7C%20🤖%20Robotics%20%7C%20🎓%20Education%20🌌&descSize=18&descAlignY=65" width="100%"/>
 </div>
 
+<div align="center">
+  <!-- Flying Rocket GIF -->
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="80" alt="Flying Rocket"/>
+  <!-- Flying Drone GIF -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" alt="Flying Drone"/>
+</div>
+
 # Hi 👋, I'm Shubham Patel (Tech Indro)
 ### AI Enthusiast | Space Tech 🛰️ | Robotics 🤖 | Educational Creator 🎓
 
@@ -38,10 +45,10 @@
 
 ### Video Editing & Content Creation
 <p>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ADaVinci_Resolve_Studio.png&psig=AOvVaw1YwHR0nmXLoItmAvtQkO4H&ust=1749870032834000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjs-5-07Y0DFQAAAAAdAAAAABAE" width="48" height="48" alt="DaVinci Resolve"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" width="48" height="48" alt="Premiere Pro"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" width="48" height="48" alt="After Effects"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
   <img src="https://cdn.worldvectorlogo.com/logos/filmora-wondershare.svg" width="48" height="48" alt="Filmora"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/DaVinci_Resolve_Studio.png" width="48" height="48" alt="DaVinci Resolve"/>
 </p>
 
 ### Specializations
@@ -155,5 +162,9 @@
 **सत्यमेव जयते** 🇮🇳
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
+
+<!-- More flying rocket and drone GIFs for extra effect -->
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="60" alt="Flying Rocket"/>
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" alt="Flying Drone"/>
 
 </div>
