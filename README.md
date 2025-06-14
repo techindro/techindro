@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12&height=220&section=header&text=Tech%20Indro&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20AI%20%7C%20🛰️%20Space%20Tech%20%7C%20🤖%20Robotics%20%7C%20🎓%20Education%20🌌&descSize=18&descAlignY=65" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="100" alt="Flying Rocket"/>
-  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="90" alt="Flying Drone"/>
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="AI Assistant"/>
-</div>
-
 # Hi 👋, I'm Shubham Patel (Tech Indro)
 
 ### AI Enthusiast | Space Tech 🚀 | Robotics 🤖 | Educational Creator 🎓
