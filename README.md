@@ -2,14 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12&height=220&section=header&text=Tech%20Indro&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20AI%20%7C%20🛰️%20Space%20Tech%20%7C%20🤖%20Robotics%20%7C%20🎓%20Education%20🌌&descSize=18&descAlignY=65" width="100%"/>
 </div>
 
-<div align="center" style="margin-top: -30px;">
-  <!-- Realistic Rocket and Drone Animation -->
-  <img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="100" height="100" alt="Flying Rocket" style="margin: 0 20px;"/>
-  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="90" height="90" alt="Flying Drone" style="margin: 0 20px;"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="100" alt="Flying Rocket"/>
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="100" alt="Flying Drone"/>
 </div>
 
 # Hi 👋, I'm Shubham Patel (Tech Indro)
-
 ### AI Enthusiast | Space Tech 🛰️ | Robotics 🤖 | Educational Creator 🎓
 
 <div align="center">
@@ -31,30 +29,26 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,java,cpp,c&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,java,cpp,c&theme=dark" />
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,aws&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,aws&theme=dark" />
 </p>
 
 ### Video Editing & Content Creation
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/filmora-wondershare.svg" width="48" height="48" alt="Filmora"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/DaVinci_Resolve_Studio.png" width="48" height="48" alt="DaVinci Resolve"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/filmora-wondershare.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/DaVinci_Resolve_Studio.png" width="40" />
 </p>
 
 ### Specializations
 **AI/ML** • **Space Tech** • **Robotics** • **Mobile Dev** • **Cloud Computing** • **Data Analytics**
-
-</div>
 
 ---
 
@@ -66,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techindro&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techindro&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -74,57 +68,47 @@
 ## 🌟 Featured Projects
 
 | Project | Tech Stack | Impact |
-|---------|------------|--------|
-| 🤖 **AI Education Platform** | React, Python, TensorFlow | 90K+ learners |
-| 🚀 **Space Tech Solutions** | IoT, Robotics, ML | Satellite automation |
-| ⚡ **EV Integration Systems** | Kotlin, Python, Cloud | Smart mobility |
+|--------|-------------|--------|
+| 🤖 AI Education Platform | React, Python, TensorFlow | 90K+ learners |
+| 🚀 Space Tech Solutions | IoT, Robotics, ML | Satellite automation |
+| ⚡ EV Integration Systems | Kotlin, Python, Cloud | Smart mobility |
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://youtube.com/c/goinfinitymotivationword">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://linkedin.com/in/shubhampateltechindro">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/tech.indro">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://twitter.com/techindro">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
+  <a href="https://youtube.com/c/goinfinitymotivationword">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/shubhampateltechindro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/tech.indro">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/techindro">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 ## 💡 Services
 
-- 🤖 **AI/ML Consulting** - Custom solutions development  
-- 🎓 **Tech Education** - Training & mentorship  
-- 🎤 **Speaking Engagements** - Tech talks & workshops  
-- 💼 **Business Analytics** - Data-driven insights  
-- 🚀 **Innovation Strategy** - Technology roadmaps  
+- 🤖 AI/ML Consulting – Custom solutions development  
+- 🎓 Tech Education – Training & mentorship  
+- 🎤 Speaking Engagements – Tech talks & workshops  
+- 💼 Business Analytics – Data-driven insights  
+- 🚀 Innovation Strategy – Technology roadmaps  
 
 ---
 
 ## 📫 Get In Touch
 
 - 📧 Email: anyoneenemy@gmail.com  
-- 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**  
+- 💬 Ask me about: **AI/ML, Android Dev, Space Tech, Robotics**  
 - 🌟 Fun fact: Building the future through education and technology!  
-
----
-
-## 🔭 Specializations
-
-**🤖 AI/ML Engineering** • **🛰️ Space Technology** • **⚡ Robotics & IoT** •  
-**📱 Mobile Development** • **☁️ Entrepreneurship** • **📊 Data Analytics** •  
-**🎨 Creative Design** • **📈 Trading Systems** • **🎬 Content Creation** • **🎯 UI/UX Design**
 
 ---
 
@@ -136,20 +120,17 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/220px-Elon_Musk_2015.jpg" width="120" style="border-radius: 50%"/><br>
-<b>Elon Musk</b><br>
-<i>"The first step is to establish that something is possible; then probability will occur."</i>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg" width="100" style="border-radius: 50%"/><br>
+<b>Elon Musk</b><br><i>"The first step is to establish that something is possible; then probability will occur."</i>
 </td>
-<td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/220px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg" width="120" style="border-radius: 50%"/><br>
-<b>Steve Jobs</b><br>
-<i>"Innovation distinguishes between a leader and a follower."</i>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg" width="100" style="border-radius: 50%"/><br>
+<b>Steve Jobs</b><br><i>"Innovation distinguishes between a leader and a follower."</i>
 </td>
-<td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg" width="120" style="border-radius: 50%"/><br>
-<b>Stephen Hawking</b><br>
-<i>"Quiet people have the loudest minds."</i>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg" width="100" style="border-radius: 50%"/><br>
+<b>Stephen Hawking</b><br><i>"Quiet people have the loudest minds."</i>
 </td>
 </tr>
 </table>
@@ -159,17 +140,13 @@
 ---
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square"/>
+<br><br>
+<b>सत्यमेव जयते 🇮🇳</b>
+</div>
 
-### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH"* — **ELON MUSK**
-
-<img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
-
-**सत्यमेव जयते** 🇮🇳
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
-
-<!-- Additional flying effects -->
-<img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="80" alt="Flying Rocket"/>
-<img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="80" alt="Flying Drone"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
+  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="80" />
 </div>
