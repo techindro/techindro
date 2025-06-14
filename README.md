@@ -4,7 +4,10 @@
 
 <div align="center">
   <!-- Realistic Flying Rocket SVG -->
-  <img src="https://raw.githubusercontent.com/Babbili/space-rocket/main/rocket.svg" width="90" alt="Flying Rocket"/>
+ <p align="center">
+  <img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="100" alt="Flying Rocket"/>
+</p>
+
   <!-- Realistic Flying Drone GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p5d2Z6b2V2c2N1d2Z5d3J5d2Z5d3J5d2Z5d3J5d2Z5d3J5/g9582DNuQppxC/giphy.gif" width="90" alt="Flying Drone"/>
 </div>
