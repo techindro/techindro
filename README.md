@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12&height=220&section=header&text=Tech%20Indro&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20AI%20%7C%20🛰️%20Space%20Tech%20%7C%20🤖%20Robotics%20%7C%20🎓%20Education%20🌌&descSize=18&descAlignY=65" width="100%"/>
 </div>
 
-<div align="center">
-  <!-- Realistic Flying Rocket GIF -->
-  <img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="100" alt="Flying Rocket"/>
-  <!-- Realistic Flying Drone GIF -->
-  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="90" alt="Flying Drone"/>
+<div align="center" style="margin-top: -30px;">
+  <!-- Realistic Rocket and Drone Animation -->
+  <img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="100" height="100" alt="Flying Rocket" style="margin: 0 20px;"/>
+  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="90" height="90" alt="Flying Drone" style="margin: 0 20px;"/>
 </div>
 
 # Hi 👋, I'm Shubham Patel (Tech Indro)
+
 ### AI Enthusiast | Space Tech 🛰️ | Robotics 🤖 | Educational Creator 🎓
 
 <div align="center">
@@ -20,12 +20,12 @@
 
 ## 🎯 About Me
 
-- 🤖 **AI/ML Development** - Building intelligent solutions
-- 🛰️ **Space Technology** - Satellite systems & automation
-- ⚡ **EV Systems & Robotics** - Innovation in mobility
-- 📱 **Mobile App Development** - Android & cross-platform
-- 🎓 **Educational Creator** - 90K+ community members
-- 💼 **Tech Consultant** - Business analytics & strategy
+- 🤖 **AI/ML Development** - Building intelligent solutions  
+- 🛰️ **Space Technology** - Satellite systems & automation  
+- ⚡ **EV Systems & Robotics** - Innovation in mobility  
+- 📱 **Mobile App Development** - Android & cross-platform  
+- 🎓 **Educational Creator** - 90K+ community members  
+- 💼 **Tech Consultant** - Business analytics & strategy  
 
 ---
 
@@ -104,24 +104,29 @@
 
 ## 💡 Services
 
-- 🤖 **AI/ML Consulting** - Custom solutions development
-- 🎓 **Tech Education** - Training & mentorship
-- 🎤 **Speaking Engagements** - Tech talks & workshops
-- 💼 **Business Analytics** - Data-driven insights
-- 🚀 **Innovation Strategy** - Technology roadmaps
+- 🤖 **AI/ML Consulting** - Custom solutions development  
+- 🎓 **Tech Education** - Training & mentorship  
+- 🎤 **Speaking Engagements** - Tech talks & workshops  
+- 💼 **Business Analytics** - Data-driven insights  
+- 🚀 **Innovation Strategy** - Technology roadmaps  
 
 ---
 
 ## 📫 Get In Touch
 
-- 📧 Email: anyoneenemy@gmail.com
-- 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**
-- 🌟 Fun fact: Building the future through education and technology!
+- 📧 Email: anyoneenemy@gmail.com  
+- 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**  
+- 🌟 Fun fact: Building the future through education and technology!  
 
 ---
 
-### Specializations
-**🤖 AI/ML Engineering** • **🛰️ Space Technology** • **⚡ Robotics & IoT** • **📱 Mobile Development** • **☁️ Entrepreneurship** • **📊 Data Analytics** • **🎨 Creative Design** • **📈 Trading Systems** • **🎬 Content Creation** • **🎯 UI/UX Design**
+## 🔭 Specializations
+
+**🤖 AI/ML Engineering** • **🛰️ Space Technology** • **⚡ Robotics & IoT** •  
+**📱 Mobile Development** • **☁️ Entrepreneurship** • **📊 Data Analytics** •  
+**🎨 Creative Design** • **📈 Trading Systems** • **🎬 Content Creation** • **🎯 UI/UX Design**
+
+---
 
 ## 💭 Inspiration
 
@@ -155,7 +160,7 @@
 
 <div align="center">
 
-### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH - ELON MUSK
+### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH"* — **ELON MUSK**
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
@@ -163,7 +168,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
 
-<!-- More flying rocket and drone for extra effect -->
+<!-- Additional flying effects -->
 <img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="80" alt="Flying Rocket"/>
 <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="80" alt="Flying Drone"/>
 
