@@ -3,13 +3,10 @@
 </div>
 
 <div align="center">
-  <!-- Realistic Flying Rocket SVG -->
- <p align="center">
+  <!-- Realistic Flying Rocket GIF -->
   <img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="100" alt="Flying Rocket"/>
-</p>
-
   <!-- Realistic Flying Drone GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p5d2Z6b2V2c2N1d2Z5d3J5d2Z5d3J5d2Z5d3J5d2Z5d3J5/g9582DNuQppxC/giphy.gif" width="90" alt="Flying Drone"/>
+  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="90" alt="Flying Drone"/>
 </div>
 
 # Hi 👋, I'm Shubham Patel (Tech Indro)
@@ -167,9 +164,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
 
 <!-- More flying rocket and drone for extra effect -->
-<p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="100" alt="Flying Rocket"/>
-</p>
-
+<img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="80" alt="Flying Rocket"/>
+<img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="80" alt="Flying Drone"/>
 
 </div>
