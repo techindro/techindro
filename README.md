@@ -3,10 +3,9 @@
 </div>
 
 <div align="center">
-  <!-- Realistic Flying Rocket GIF -->
-  <img src="https://media.giphy.com/media/Gf3AUz3eBNbTW/giphy.gif" width="100" alt="Flying Rocket"/>
-  <!-- Realistic Flying Drone GIF -->
+  <img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="100" alt="Flying Rocket"/>
   <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="90" alt="Flying Drone"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" alt="AI Assistant"/>
 </div>
 
 # Hi 👋, I'm Shubham Patel (Tech Indro)
@@ -14,6 +13,22 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Space+Tech+Enthusiast;Educational+Creator;90K%2B+Community" alt="Typing Animation"/>
+</div>
+
+---
+
+## 🤖 Live AI Assistant Chatbot
+
+<div align="center">
+  <strong>Interact with Tech Indro's AI Assistant ⬇️</strong><br><br>
+  <iframe 
+    src="https://your-hosted-chatbot-url.com" 
+    width="350" 
+    height="500" 
+    frameborder="0" 
+    allow="microphone;"
+    style="border-radius: 12px;">
+  </iframe>
 </div>
 
 ---
@@ -26,16 +41,6 @@
 - 📱 **Mobile App Development** - Android & cross-platform  
 - 🎓 **Educational Creator** - 90K+ community members  
 - 💼 **Tech Consultant** - Business analytics & strategy  
-
----
-
-## 🤖 Meet Your AI Assistant
-
-<div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="250" alt="AI Assistant Hologram Animation"/>
-  <br>
-  <b><i>Your friendly AI assistant — guiding your tech journey!</i></b>
-</div>
 
 ---
 
@@ -126,12 +131,7 @@
 
 - 📧 Email: anyoneenemy@gmail.com  
 - 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**  
-- 🌟 Fun fact: Building the future through education and technology!  
-
----
-
-### Specializations  
-**🤖 AI/ML Engineering** • **🛰️ Space Technology** • **⚡ Robotics & IoT** • **📱 Mobile Development** • **☁️ Entrepreneurship** • **📊 Data Analytics** • **🎨 Creative Design** • **📈 Trading Systems** • **🎬 Content Creation** • **🎯 UI/UX Design**
+- 🌟 Fun fact: Building the future through education and technology!
 
 ---
 
@@ -167,7 +167,7 @@
 
 <div align="center">
 
-### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH - ELON MUSK*
+### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH - ELON MUSK
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
@@ -175,7 +175,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
 
-<img src="https://media.giphy.com/media/Gf3AUz3eBNbTW/giphy.gif" width="80" alt="Flying Rocket"/>
+<img src="https://cdn.iconscout.com/lottie/premium/thumb/flying-rocket-5008778-4154199.gif" width="80" alt="Flying Rocket"/>
 <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="80" alt="Flying Drone"/>
 
 </div>
