@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <!-- Flying Rocket GIF -->
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="80" alt="Flying Rocket"/>
-  <!-- Flying Drone GIF -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" alt="Flying Drone"/>
+  <!-- Realistic Flying Rocket SVG -->
+  <img src="https://raw.githubusercontent.com/Babbili/space-rocket/main/rocket.svg" width="90" alt="Flying Rocket"/>
+  <!-- Realistic Flying Drone GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p5d2Z6b2V2c2N1d2Z5d3J5d2Z5d3J5d2Z5d3J5d2Z5d3J5/g9582DNuQppxC/giphy.gif" width="90" alt="Flying Drone"/>
 </div>
 
 # Hi 👋, I'm Shubham Patel (Tech Indro)
@@ -163,8 +163,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
 
-<!-- More flying rocket and drone GIFs for extra effect -->
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="60" alt="Flying Rocket"/>
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" alt="Flying Drone"/>
+<!-- More flying rocket and drone for extra effect -->
+<img src="https://raw.githubusercontent.com/Babbili/space-rocket/main/rocket.svg" width="60" alt="Flying Rocket"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p5d2Z6b2V2c2N1d2Z5d3J5d2Z5d3J5d2Z5d3J5d2Z5d3J5/g9582DNuQppxC/giphy.gif" width="60" alt="Flying Drone"/>
 
 </div>
