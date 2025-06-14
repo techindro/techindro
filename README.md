@@ -9,23 +9,20 @@
 </div>
 
 # Hi 👋, I'm Shubham Patel (Tech Indro)
-### AI Enthusiast | Space Tech 🛰️ | Robotics 🤖 | Educational Creator 🎓
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Space+Tech+Enthusiast;Educational+Creator;90K%2B+Community" alt="Typing Animation"/>
-</div>
+### AI Enthusiast | Space Tech 🚀 | Robotics 🤖 | Educational Creator 🎓
 
 ---
 
 ## 🤖 Live AI Assistant Chatbot
 
 <div align="center">
-  <strong>Interact with Tech Indro's AI Assistant ⬇️</strong><br><br>
-  <iframe 
-    src="https://your-hosted-chatbot-url.com" 
-    width="350" 
-    height="500" 
-    frameborder="0" 
+  <strong>Interact with Tech Indro's AI Assistant 👇</strong><br><br>
+  <iframe
+    src="https://your-hosted-chatbot-url.com"
+    width="350"
+    height="500"
+    frameborder="0"
     allow="microphone;"
     style="border-radius: 12px;">
   </iframe>
@@ -35,12 +32,12 @@
 
 ## 🎯 About Me
 
-- 🤖 **AI/ML Development** - Building intelligent solutions  
-- 🛰️ **Space Technology** - Satellite systems & automation  
-- ⚡ **EV Systems & Robotics** - Innovation in mobility  
-- 📱 **Mobile App Development** - Android & cross-platform  
-- 🎓 **Educational Creator** - 90K+ community members  
-- 💼 **Tech Consultant** - Business analytics & strategy  
+* 🤖 **AI/ML Development** - Building intelligent solutions
+* 🚀 **Space Technology** - Satellite systems & automation
+* ⚡ **EV Systems & Robotics** - Innovation in mobility
+* 📱 **Mobile App Development** - Android & cross-platform
+* 🎓 **Educational Creator** - 90K+ community members
+* 💼 **Tech Consultant** - Business analytics & strategy
 
 ---
 
@@ -49,25 +46,25 @@
 <div align="center">
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,java,cpp,c&theme=dark" alt="Languages"/>
 </p>
 
 ### Frameworks & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,aws&theme=dark" alt="Frameworks"/>
 </p>
 
 ### Video Editing & Content Creation
+
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
   <img src="https://cdn.worldvectorlogo.com/logos/filmora-wondershare.svg" width="48" height="48" alt="Filmora"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/DaVinci_Resolve_Studio.png" width="48" height="48" alt="DaVinci Resolve"/>
 </p>
-
-### Specializations
-**AI/ML** • **Space Tech** • **Robotics** • **Mobile Dev** • **Cloud Computing** • **Data Analytics**
 
 </div>
 
@@ -88,11 +85,11 @@
 
 ## 🌟 Featured Projects
 
-| Project | Tech Stack | Impact |
-|---------|------------|--------|
-| 🤖 **AI Education Platform** | React, Python, TensorFlow | 90K+ learners |
-| 🚀 **Space Tech Solutions** | IoT, Robotics, ML | Satellite automation |
-| ⚡ **EV Integration Systems** | Kotlin, Python, Cloud | Smart mobility |
+| Project                      | Tech Stack                | Impact               |
+| ---------------------------- | ------------------------- | -------------------- |
+| 🤖 **AI Education Platform** | React, Python, TensorFlow | 90K+ learners        |
+| 🚀 **Space Tech Solutions**  | IoT, Robotics, ML         | Satellite automation |
+| ⚡ **EV Integration Systems** | Kotlin, Python, Cloud     | Smart mobility       |
 
 ---
 
@@ -119,23 +116,23 @@
 
 ## 💡 Services
 
-- 🤖 **AI/ML Consulting** - Custom solutions development  
-- 🎓 **Tech Education** - Training & mentorship  
-- 🎤 **Speaking Engagements** - Tech talks & workshops  
-- 💼 **Business Analytics** - Data-driven insights  
-- 🚀 **Innovation Strategy** - Technology roadmaps  
+* 🤖 **AI/ML Consulting** - Custom solutions development
+* 🎓 **Tech Education** - Training & mentorship
+* 🎤 **Speaking Engagements** - Tech talks & workshops
+* 💼 **Business Analytics** - Data-driven insights
+* 🚀 **Innovation Strategy** - Technology roadmaps
 
 ---
 
-## 📫 Get In Touch
+## 📢 Get In Touch
 
-- 📧 Email: anyoneenemy@gmail.com  
-- 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**  
-- 🌟 Fun fact: Building the future through education and technology!
+* 📧 Email: [anyoneenemy@gmail.com](mailto:anyoneenemy@gmail.com)
+* 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**
+* 🌟 Fun fact: Building the future through education and technology!
 
 ---
 
-## 💭 Inspiration
+## 💬 Inspiration
 
 <div align="center">
 
@@ -167,7 +164,7 @@
 
 <div align="center">
 
-### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH - ELON MUSK
+### \*"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH - ELON MUSK
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
