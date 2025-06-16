@@ -61,12 +61,12 @@
 
 <p>
  ### Video Editing & Content Creation
-
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Filmora_Icon.png" width="48" height="48" alt="Filmora"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/DaVinci_Resolve_Studio.png" width="48" height="48" alt="DaVinci Resolve"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Wondershare_filmora_logo.svg" width="48" height="48" alt="Filmora"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
+</p>
 </p>
 
 </div>
