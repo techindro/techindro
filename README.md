@@ -147,7 +147,7 @@
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Stephen Hawking</b><br>
-<i>"Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist."</i>
+<i>"Look up at the stars and not down at your feet. Try to make sense of what you see,wonder about what makes the universe exist."</i>
 </td>
 </tr>
 </table>
