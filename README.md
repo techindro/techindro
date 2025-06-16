@@ -8,6 +8,28 @@
 
 ---
 
+## 🎯 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+* 🤖 **AI/ML Development** – Building intelligent solutions  
+* 🚀 **Space Technology** – Satellite systems & automation  
+* ⚡ **EV Systems & Robotics** – Innovating smart mobility  
+* 📱 **Mobile App Development** – Android & cross-platform  
+* 🎓 **Educational Creator** – 90K+ community members  
+* 💼 **Tech Consultant** – Business analytics & strategy  
+
+</td>
+<td width="35%" align="right">
+  <img src="https://i.ibb.co/yBSFbrvN/ai-consulting.png" width="220" style="border-radius:12px;" alt="AI About Me Image"/>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🤖 Live AI Assistant Chatbot
 
 <div align="center">
@@ -21,17 +43,6 @@
     style="border-radius: 12px;">
   </iframe>
 </div>
-
----
-
-## 🎯 About Me
-
-* 🤖 **AI/ML Development** – Building intelligent solutions  
-* 🚀 **Space Technology** – Satellite systems & automation  
-* ⚡ **EV Systems & Robotics** – Innovating smart mobility  
-* 📱 **Mobile App Development** – Android & cross-platform  
-* 🎓 **Educational Creator** – 90K+ community members  
-* 💼 **Tech Consultant** – Business analytics & strategy  
 
 ---
 
@@ -86,24 +97,11 @@
 
 ## 💡 Services
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="55%" align="left">
-        <ul>
-          <li>🤖 <strong>AI/ML Consulting</strong> – Custom solutions development</li>
-          <li>🎓 <strong>Tech Education</strong> – Training & mentorship</li>
-          <li>🎤 <strong>Speaking Engagements</strong> – Tech talks & workshops</li>
-          <li>💼 <strong>Business Analytics</strong> – Data-driven insights</li>
-          <li>🚀 <strong>Innovation Strategy</strong> – Technology roadmaps</li>
-        </ul>
-      </td>
-      <td width="45%" align="right">
-        <img src="https://i.ibb.co/yBSFbrvN/ai-consulting.png" width="220" style="border-radius:12px;" alt="AI Consulting"/>
-      </td>
-    </tr>
-  </table>
-</div>
+* 🤖 **AI/ML Consulting** – Custom solutions development  
+* 🎓 **Tech Education** – Training & mentorship  
+* 🎤 **Speaking Engagements** – Tech talks & workshops  
+* 💼 **Business Analytics** – Data-driven insights  
+* 🚀 **Innovation Strategy** – Technology roadmaps  
 
 ---
 
