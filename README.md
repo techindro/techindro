@@ -34,7 +34,7 @@
 
     </td>
     <td align="right">
-      <img src="https://i.ibb.co/dsw2Tyv/techindro-image.png" width="220" style="border-radius: 16px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4); transform: perspective(800px) rotateY(-4deg);"/>
+      <img src="techindro-image.png" width="220" style="border-radius: 16px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4); transform: perspective(800px) rotateY(-4deg);"/>
     </td>
   </tr>
 </table>
