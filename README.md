@@ -21,65 +21,22 @@
 
 ## 🎯 About Me
 
-<style>
-  .about-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 20px;
-  }
+<table>
+  <tr>
+    <td width="65%">
 
-  .about-text {
-    flex: 1 1 60%;
-    min-width: 250px;
-  }
+* 🤖 **AI/ML Development** - Building intelligent solutions  
+* 🚀 **Space Technology** - Satellite systems & automation  
+* ⚡ **EV Systems & Robotics** - Innovation in mobility  
+* 📱 **Mobile App Development** - Android & cross-platform  
+* 🎓 **Educational Creator** - 90K+ community members  
+* 💼 **Tech Consultant** - Business analytics & strategy  
 
-  .about-image {
-    flex: 1 1 35%;
-    text-align: right;
-    min-width: 200px;
-  }
-
-  .about-image img {
-    width: 100%;
-    max-width: 220px;
-    border-radius: 16px;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
-    transition: transform 0.3s ease;
-  }
-
-  .about-image img:hover {
-    transform: scale(1.05) rotateY(5deg);
-  }
-
-  @media (max-width: 768px) {
-    .about-container {
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-
-    .about-image {
-      text-align: center;
-    }
-  }
-</style>
-
-<div class="about-container">
-  <div class="about-text">
-    <ul>
-      <li>🤖 <strong>AI/ML Development</strong> – Building intelligent solutions</li>
-      <li>🚀 <strong>Space Technology</strong> – Satellite systems & automation</li>
-      <li>⚡ <strong>EV Systems & Robotics</strong> – Innovation in mobility</li>
-      <li>📱 <strong>Mobile App Development</strong> – Android & cross-platform</li>
-      <li>🎓 <strong>Educational Creator</strong> – 90K+ community members</li>
-      <li>💼 <strong>Tech Consultant</strong> – Business analytics & strategy</li>
-    </ul>
-  </div>
-  <div class="about-image">
-    <img src="https://i.ibb.co/yBSFbrvN/techindro-image.png" alt="Tech Indro" />
-  </div>
-</div>
+    </td>
+    <td align="right">
+      <img src="https://i.ibb.co/yBSFbrvN/techindro-image.png" width="220" style="border-radius: 16px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4); transform: perspective(800px) rotateY(-4deg);"/>
+    </td>
+  </tr>
+</table>
 
 ---
