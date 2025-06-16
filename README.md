@@ -34,7 +34,7 @@
 
     </td>
     <td align="right">
-      <img src="https://ibb.co/dsw2TyvT/techindro-image.png" width="220" style="border-radius: 16px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4); transform: perspective(800px) rotateY(-4deg);"/>
+      <img src="https://i.ibb.co/dsw2Tyv/techindro-image.png" width="220" style="border-radius: 16px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4); transform: perspective(800px) rotateY(-4deg);"/>
     </td>
   </tr>
 </table>
@@ -153,7 +153,7 @@
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Stephen Hawking</b><br>
-<i>"Look up at the stars and not down at your feet. Try to make sense of what you see,wonder about what makes the universe exist."</i>
+<i>"Look up at the stars and not down at your feet. Try to make sense of what you see, wonder about what makes the universe exist."</i>
 </td>
 </tr>
 </table>
