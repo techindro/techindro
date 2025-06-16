@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Shubham Patel (Tech Indro)
 
-### AI Enthusiast | Space Tech 🚀 | Robotics 🤖 | Educational Creator 🎓
+### 🚀 AI Enthusiast <br> 🛰️ Space Tech | 🤖 Robotics | 🎓 Educational Creator
 
 ---
 
@@ -13,7 +13,7 @@
 <div align="center">
   <strong>Interact with Tech Indro's AI Assistant 👇</strong><br><br>
   <iframe
-    src="https://your-hosted-chatbot-url.com"
+    src="https://your-chatbot-url.com"
     width="350"
     height="500"
     frameborder="0"
@@ -26,12 +26,12 @@
 
 ## 🎯 About Me
 
-* 🤖 **AI/ML Development** - Building intelligent solutions
-* 🚀 **Space Technology** - Satellite systems & automation
-* ⚡ **EV Systems & Robotics** - Innovation in mobility
-* 📱 **Mobile App Development** - Android & cross-platform
-* 🎓 **Educational Creator** - 90K+ community members
-* 💼 **Tech Consultant** - Business analytics & strategy
+* 🤖 **AI/ML Development** – Building intelligent solutions  
+* 🚀 **Space Technology** – Satellite systems & automation  
+* ⚡ **EV Systems & Robotics** – Innovating smart mobility  
+* 📱 **Mobile App Development** – Android & cross-platform  
+* 🎓 **Educational Creator** – 90K+ community members  
+* 💼 **Tech Consultant** – Business analytics & strategy  
 
 ---
 
@@ -39,20 +39,17 @@
 
 <div align="center">
 
-### Languages
-
+### 💻 Languages  
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,java,cpp,c&theme=dark" alt="Languages"/>
 </p>
 
-### Frameworks & Tools
-
+### ⚙️ Frameworks & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,aws&theme=dark" alt="Frameworks"/>
 </p>
 
-### Video Editing & Content Creation
-
+### 🎥 Video Editing & Content Creation  
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
@@ -80,10 +77,33 @@
 ## 🌟 Featured Projects
 
 | Project                      | Tech Stack                | Impact               |
-| ---------------------------- | ------------------------- | -------------------- |
+| --------------------------- | ------------------------- | -------------------- |
 | 🤖 **AI Education Platform** | React, Python, TensorFlow | 90K+ learners        |
 | 🚀 **Space Tech Solutions**  | IoT, Robotics, ML         | Satellite automation |
 | ⚡ **EV Integration Systems** | Kotlin, Python, Cloud     | Smart mobility       |
+
+---
+
+## 💡 Services
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="55%" align="left">
+        <ul>
+          <li>🤖 <strong>AI/ML Consulting</strong> – Custom solutions development</li>
+          <li>🎓 <strong>Tech Education</strong> – Training & mentorship</li>
+          <li>🎤 <strong>Speaking Engagements</strong> – Tech talks & workshops</li>
+          <li>💼 <strong>Business Analytics</strong> – Data-driven insights</li>
+          <li>🚀 <strong>Innovation Strategy</strong> – Technology roadmaps</li>
+        </ul>
+      </td>
+      <td width="45%" align="right">
+        <img src="https://i.ibb.co/yBSFbrvN/ai-consulting.png" width="220" style="border-radius:12px;" alt="AI Consulting"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -108,21 +128,11 @@
 
 ---
 
-## 💡 Services
-
-* 🤖 **AI/ML Consulting** - Custom solutions development
-* 🎓 **Tech Education** - Training & mentorship
-* 🎤 **Speaking Engagements** - Tech talks & workshops
-* 💼 **Business Analytics** - Data-driven insights
-* 🚀 **Innovation Strategy** - Technology roadmaps
-
----
-
 ## 📢 Get In Touch
 
-* 📧 Email: [anyoneenemy@gmail.com](mailto:anyoneenemy@gmail.com)
-* 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**
-* 🌟 Fun fact: Building the future through education and technology!
+* 📧 Email: [anyoneenemy@gmail.com](mailto:anyoneenemy@gmail.com)  
+* 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**  
+* 🌟 Fun fact: Empowering the future through education and tech!
 
 ---
 
@@ -130,7 +140,7 @@
 
 <div align="center">
 
-### Icons of Innovation
+### 🌟 Icons of Innovation
 
 <table>
 <tr>
@@ -147,7 +157,7 @@
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Stephen Hawking</b><br>
-<i>"Look up at the stars and not down at your feet. Try to make sense of what you see,wonder about what makes the universe exist."</i>
+<i>"Look up at the stars and not down at your feet. Try to make sense of what you see, wonder about what makes the universe exist."</i>
 </td>
 </tr>
 </table>
@@ -158,11 +168,12 @@
 
 <div align="center">
 
-### \*"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH - ELON MUSK
+### ⚠️ "FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING, YOU ARE NOT INNOVATING ENOUGH." – ELON MUSK
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
 **सत्यमेव जयते** 🇮🇳
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
+
 </div>
