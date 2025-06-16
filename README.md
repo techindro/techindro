@@ -64,8 +64,11 @@
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Wondershare_filmora_logo.svg" width="48" height="48" alt="Filmora"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wondersharefilmora.svg" width="48" height="48" alt="Filmora"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canva_icon_2021.svg" width="48" height="48" alt="Canva"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/snapseed.svg" width="48" height="48" alt="Snapseed"/>
+  <img src="https://www.svgrepo.com/show/500416/pix.svg" width="48" height="48" alt="PixelLab"/>
 </p>
 </p>
 
