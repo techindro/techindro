@@ -65,7 +65,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/wondersharefilmora.svg" width="48" height="48" alt="Filmora"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/canva.svg" width="48" height="48" alt="Canva"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/snapseed.svg" width="48" height="48" alt="Snapseed"/>
 </p>
 </div>
 
