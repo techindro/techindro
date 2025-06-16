@@ -10,34 +10,80 @@
 
 ## 🤖 Live AI Assistant Chatbot
 
-<div align="center" style="margin-top: 20px;">
-  <strong style="font-size: 20px;">Interact with Tech Indro's AI Assistant 👇</strong><br><br>
-  
-  <a href="https://chat.openai.com/g/g-7pqYBYyFB-tech-indro-assistant" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Chat_with_AI_Assistant-00a67e?style=for-the-badge&logo=openai&logoColor=white" alt="Chat with AI Assistant"/>
-  </a>
-  
-  <br><br>
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712107.png" width="100" alt="AI Bot Icon" />
+<div align="center">
+  <strong>Interact with Tech Indro's AI Assistant 👇</strong><br><br>
+  <iframe
+    src="https://chat.openai.com/"
+    width="350"
+    height="500"
+    frameborder="0"
+    allow="microphone;"
+    style="border-radius: 12px;">
+  </iframe>
 </div>
 
 ---
 
 ## 🎯 About Me
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1;">
+<style>
+  .about-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .about-text {
+    flex: 1 1 60%;
+    min-width: 250px;
+  }
+
+  .about-image {
+    flex: 1 1 35%;
+    text-align: right;
+    min-width: 200px;
+  }
+
+  .about-image img {
+    width: 100%;
+    max-width: 220px;
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease;
+  }
+
+  .about-image img:hover {
+    transform: scale(1.05) rotateY(5deg);
+  }
+
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .about-image {
+      text-align: center;
+    }
+  }
+</style>
+
+<div class="about-container">
+  <div class="about-text">
     <ul>
-      <li>🤖 <strong>AI/ML Development</strong> - Building intelligent solutions</li>
-      <li>🚀 <strong>Space Technology</strong> - Satellite systems & automation</li>
-      <li>⚡ <strong>EV Systems & Robotics</strong> - Innovation in mobility</li>
-      <li>📱 <strong>Mobile App Development</strong> - Android & cross-platform</li>
-      <li>🎓 <strong>Educational Creator</strong> - 90K+ community members</li>
-      <li>💼 <strong>Tech Consultant</strong> - Business analytics & strategy</li>
+      <li>🤖 <strong>AI/ML Development</strong> – Building intelligent solutions</li>
+      <li>🚀 <strong>Space Technology</strong> – Satellite systems & automation</li>
+      <li>⚡ <strong>EV Systems & Robotics</strong> – Innovation in mobility</li>
+      <li>📱 <strong>Mobile App Development</strong> – Android & cross-platform</li>
+      <li>🎓 <strong>Educational Creator</strong> – 90K+ community members</li>
+      <li>💼 <strong>Tech Consultant</strong> – Business analytics & strategy</li>
     </ul>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="https://i.ibb.co/yBSFbrvN/techindro-image.png" alt="Tech Indro" width="220" style="border-radius: 12px;" />
+  <div class="about-image">
+    <img src="https://i.ibb.co/yBSFbrvN/techindro-image.png" alt="Tech Indro" />
   </div>
 </div>
 
@@ -48,19 +94,16 @@
 <div align="center">
 
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,java,cpp,c&theme=dark" alt="Languages"/>
 </p>
 
 ### Frameworks & Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,aws&theme=dark" alt="Frameworks"/>
 </p>
 
 ### Video Editing & Content Creation
-
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
@@ -118,11 +161,11 @@
 
 ## 💡 Services
 
-* 🤖 **AI/ML Consulting** - Custom solutions development  
-* 🎓 **Tech Education** - Training & mentorship  
-* 🎤 **Speaking Engagements** - Tech talks & workshops  
-* 💼 **Business Analytics** - Data-driven insights  
-* 🚀 **Innovation Strategy** - Technology roadmaps  
+* 🤖 **AI/ML Consulting** – Custom solutions development  
+* 🎓 **Tech Education** – Training & mentorship  
+* 🎤 **Speaking Engagements** – Tech talks & workshops  
+* 💼 **Business Analytics** – Data-driven insights  
+* 🚀 **Innovation Strategy** – Technology roadmaps  
 
 ---
 
@@ -155,7 +198,7 @@
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Stephen Hawking</b><br>
-<i>"Look up at the stars and not down at your feet. Try to make sense of what you see,wonder about what makes the universe exist."</i>
+<i>"Look up at the stars and not down at your feet. Try to make sense of what you see, wonder about what makes the universe exist."</i>
 </td>
 </tr>
 </table>
@@ -166,7 +209,7 @@
 
 <div align="center">
 
-### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING, YOU ARE NOT INNOVATING ENOUGH."* — ELON MUSK
+### "*FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING, YOU ARE NOT INNOVATING ENOUGH* – Elon Musk"
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
