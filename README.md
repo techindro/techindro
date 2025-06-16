@@ -12,38 +12,32 @@
 
 <div align="center">
   <strong>Interact with Tech Indro's AI Assistant 👇</strong><br><br>
-  <iframe
-    src="https://chat.openai.com"
-    width="350"
-    height="500"
-    frameborder="0"
-    allow="microphone;"
-    style="border-radius: 12px;">
-  </iframe>
+  <a href="https://chat.openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Talk%20to%20ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Link">
+  </a>
 </div>
 
 ---
 
 ## 🎯 About Me
 
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+<table>
+  <tr>
+    <td width="65%">
 
-<div style="flex: 1; min-width: 250px; max-width: 600px; padding: 20px;">
-  
-* 🤖 **AI/ML Development** – Building intelligent solutions  
-* 🚀 **Space Technology** – Satellite systems & automation  
-* ⚡ **EV Systems & Robotics** – Innovation in mobility  
-* 📱 **Mobile App Development** – Android & cross-platform  
-* 🎓 **Educational Creator** – 90K+ community members  
-* 💼 **Tech Consultant** – Business analytics & strategy  
+* 🤖 **AI/ML Development** - Building intelligent solutions  
+* 🚀 **Space Technology** - Satellite systems & automation  
+* ⚡ **EV Systems & Robotics** - Innovation in mobility  
+* 📱 **Mobile App Development** - Android & cross-platform  
+* 🎓 **Educational Creator** - 90K+ community members  
+* 💼 **Tech Consultant** - Business analytics & strategy  
 
-</div>
-
-<div style="flex: 1; min-width: 250px; padding: 20px; text-align: center;">
-  <img src="https://i.ibb.co/yBSFbrv/Nicepic.png" alt="Tech Indro" width="250" style="border-radius: 18px; box-shadow: 0 8px 20px rgba(0,0,0,0.35); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-</div>
-
-</div>
+    </td>
+    <td align="right">
+      <img src="https://i.ibb.co/yBSFbrvN/techindro-image.png" width="220" style="border-radius: 16px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4); transform: perspective(800px) rotateY(-4deg);"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -159,7 +153,7 @@
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Stephen Hawking</b><br>
-<i>"Look up at the stars and not down at your feet. Try to make sense of what you see, wonder about what makes the universe exist."</i>
+<i>"Look up at the stars and not down at your feet. Try to make sense of what you see,wonder about what makes the universe exist."</i>
 </td>
 </tr>
 </table>
@@ -170,7 +164,7 @@
 
 <div align="center">
 
-### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING, YOU ARE NOT INNOVATING ENOUGH"* — ELON MUSK
+### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH"* – ELON MUSK
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
