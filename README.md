@@ -54,7 +54,7 @@
 ### Frameworks & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,huggingface,aws&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,aws&theme=dark" alt="Frameworks"/>
 </p>
 
 
