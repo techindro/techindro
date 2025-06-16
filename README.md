@@ -57,21 +57,16 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,aws&theme=dark" alt="Frameworks"/>
 </p>
 
-### Video Editing & Content Creation
 
-<p>
- ### Video Editing & Content Creation
-<p>
-  ### Video Editing & Content Creation
+### Video Editing & Content Creation
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
-  <img src="https://www.svgrepo.com/show/303227/wondershare-filmora-logo.svg" width="48" height="48" alt="Filmora"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/wondersharefilmora.svg" width="48" height="48" alt="Filmora"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
-  <img src="https://www.svgrepo.com/show/303085/canva-1-logo.svg" width="48" height="48" alt="Canva"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/snapseed.svg" width="48" height="48" alt="Snapseed"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/canva.svg" width="48" height="48" alt="Canva"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/snapseed.svg" width="48" height="48" alt="Snapseed"/>
 </p>
-
 </div>
 
 ---
