@@ -4,44 +4,41 @@
 
 # Hi 👋, I'm Shubham Patel (Tech Indro)
 
-### 🚀 AI Enthusiast <br> 🛰️ Space Tech | 🤖 Robotics | 🎓 Educational Creator
-
----
-
-## 🎯 About Me
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-* 🤖 **AI/ML Development** – Building intelligent solutions  
-* 🚀 **Space Technology** – Satellite systems & automation  
-* ⚡ **EV Systems & Robotics** – Innovating smart mobility  
-* 📱 **Mobile App Development** – Android & cross-platform  
-* 🎓 **Educational Creator** – 90K+ community members  
-* 💼 **Tech Consultant** – Business analytics & strategy  
-
-</td>
-<td width="35%" align="right">
-  <img src="https://i.ibb.co/yBSFbrvN/ai-consulting.png" width="220" style="border-radius:12px;" alt="AI About Me Image"/>
-</td>
-</tr>
-</table>
+### AI Enthusiast | Space Tech 🚀 | Robotics 🤖 | Educational Creator 🎓
 
 ---
 
 ## 🤖 Live AI Assistant Chatbot
 
-<div align="center">
-  <strong>Interact with Tech Indro's AI Assistant 👇</strong><br><br>
-  <iframe
-    src="https://your-chatbot-url.com"
-    width="350"
-    height="500"
-    frameborder="0"
-    allow="microphone;"
-    style="border-radius: 12px;">
-  </iframe>
+<div align="center" style="margin-top: 20px;">
+  <strong style="font-size: 20px;">Interact with Tech Indro's AI Assistant 👇</strong><br><br>
+  
+  <a href="https://chat.openai.com/g/g-7pqYBYyFB-tech-indro-assistant" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Chat_with_AI_Assistant-00a67e?style=for-the-badge&logo=openai&logoColor=white" alt="Chat with AI Assistant"/>
+  </a>
+  
+  <br><br>
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712107.png" width="100" alt="AI Bot Icon" />
+</div>
+
+---
+
+## 🎯 About Me
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🤖 <strong>AI/ML Development</strong> - Building intelligent solutions</li>
+      <li>🚀 <strong>Space Technology</strong> - Satellite systems & automation</li>
+      <li>⚡ <strong>EV Systems & Robotics</strong> - Innovation in mobility</li>
+      <li>📱 <strong>Mobile App Development</strong> - Android & cross-platform</li>
+      <li>🎓 <strong>Educational Creator</strong> - 90K+ community members</li>
+      <li>💼 <strong>Tech Consultant</strong> - Business analytics & strategy</li>
+    </ul>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://i.ibb.co/yBSFbrvN/techindro-image.png" alt="Tech Indro" width="220" style="border-radius: 12px;" />
+  </div>
 </div>
 
 ---
@@ -50,17 +47,20 @@
 
 <div align="center">
 
-### 💻 Languages  
+### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,java,cpp,c&theme=dark" alt="Languages"/>
 </p>
 
-### ⚙️ Frameworks & Tools  
+### Frameworks & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,android,aws&theme=dark" alt="Frameworks"/>
 </p>
 
-### 🎥 Video Editing & Content Creation  
+### Video Editing & Content Creation
+
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
@@ -88,20 +88,10 @@
 ## 🌟 Featured Projects
 
 | Project                      | Tech Stack                | Impact               |
-| --------------------------- | ------------------------- | -------------------- |
+| ---------------------------- | ------------------------- | -------------------- |
 | 🤖 **AI Education Platform** | React, Python, TensorFlow | 90K+ learners        |
 | 🚀 **Space Tech Solutions**  | IoT, Robotics, ML         | Satellite automation |
 | ⚡ **EV Integration Systems** | Kotlin, Python, Cloud     | Smart mobility       |
-
----
-
-## 💡 Services
-
-* 🤖 **AI/ML Consulting** – Custom solutions development  
-* 🎓 **Tech Education** – Training & mentorship  
-* 🎤 **Speaking Engagements** – Tech talks & workshops  
-* 💼 **Business Analytics** – Data-driven insights  
-* 🚀 **Innovation Strategy** – Technology roadmaps  
 
 ---
 
@@ -126,11 +116,21 @@
 
 ---
 
+## 💡 Services
+
+* 🤖 **AI/ML Consulting** - Custom solutions development  
+* 🎓 **Tech Education** - Training & mentorship  
+* 🎤 **Speaking Engagements** - Tech talks & workshops  
+* 💼 **Business Analytics** - Data-driven insights  
+* 🚀 **Innovation Strategy** - Technology roadmaps  
+
+---
+
 ## 📢 Get In Touch
 
 * 📧 Email: [anyoneenemy@gmail.com](mailto:anyoneenemy@gmail.com)  
 * 💬 Ask me about: **AI/ML, Android Development, Space Tech, Robotics**  
-* 🌟 Fun fact: Empowering the future through education and tech!
+* 🌟 Fun fact: Building the future through education and technology!
 
 ---
 
@@ -138,7 +138,7 @@
 
 <div align="center">
 
-### 🌟 Icons of Innovation
+### Icons of Innovation
 
 <table>
 <tr>
@@ -155,7 +155,7 @@
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Stephen Hawking</b><br>
-<i>"Look up at the stars and not down at your feet. Try to make sense of what you see, wonder about what makes the universe exist."</i>
+<i>"Look up at the stars and not down at your feet. Try to make sense of what you see,wonder about what makes the universe exist."</i>
 </td>
 </tr>
 </table>
@@ -166,12 +166,11 @@
 
 <div align="center">
 
-### ⚠️ "FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING, YOU ARE NOT INNOVATING ENOUGH." – ELON MUSK
+### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING, YOU ARE NOT INNOVATING ENOUGH."* — ELON MUSK
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
 **सत्यमेव जयते** 🇮🇳
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&fontColor=fff&desc=Let's%20innovate%20together!%20🚀&descSize=16&descAlignY=75" width="100%"/>
-
 </div>
