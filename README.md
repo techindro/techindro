@@ -107,7 +107,6 @@
 <a href="https://developers.google.com/profile/u/Shubham_Patel1718" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Google developer.svg" alt="Googledeveloper" height="30" width="40" />
 </a>
-
 </p>
 </div>
 
