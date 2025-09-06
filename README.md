@@ -104,11 +104,7 @@
 <a href="https://www.youtube.com/c/goinfinitymotivationword" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="goinfinitymotivationword" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhamkumarpat4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamkumarpat4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/techindro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="techindro" height="30" width="40" /></a>
-<a href="https://developers.google.com/profile/u/Shubham_Patel1718" target="_blank">
-  <img align="center" src="https://androiddevhub.com/svg_uploads/68bc4c041b5e7.svg" alt="Googledeveloper" height="30" width="40" />
-</a>
-
-</a>
+<a href="https://developers.google.com/profile/u/Shubham_Patel1718" target="_blank"><img src="https://androiddevhub.com/svg_uploads/68bc4c041b5e7.svg" alt="google-developers.svg"></a>
 </p>
 </div>
 
