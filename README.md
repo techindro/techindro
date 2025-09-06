@@ -88,7 +88,7 @@
 
 | Project                      | Tech Stack                | Impact               |
 | ---------------------------- | ------------------------- | -------------------- |
-| 🤖 **AI Education Platform** | React, Python, TensorFlow | 90K+ learners        |
+| 🤖 **AI Education Platform** | React, Python, TensorFlow | 250K+ learners        |
 | 🚀 **Space Tech Solutions**  | IoT, Robotics, ML         | Satellite automation |
 | ⚡ **EV Integration Systems** | Kotlin, Python, Cloud     | Smart mobility       |
 
