@@ -104,8 +104,10 @@
 <a href="https://www.youtube.com/c/goinfinitymotivationword" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="goinfinitymotivationword" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhamkumarpat4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamkumarpat4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/techindro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="techindro" height="30" width="40" /></a>
-< a href="https://g.dev/Shubham_Patel1718" target ="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-alt="Googledeveloper" height="30" width="40" /></a>
+<a href="https://developers.google.com/profile/u/Shubham_Patel1718" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Google developer.svg" alt="Googledeveloper" height="30" width="40" />
+</a>
+
 </p>
 </div>
 
