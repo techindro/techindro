@@ -136,7 +136,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/220px-Elon_Musk_2015.jpg" width="120" style="border-radius: 50%"/><br>
+<img src="" width="120" style="border-radius: 50%"/><br>
 <b>Elon Musk</b><br>
 <i>"The first step is to establish that something is possible; then probability will occur."</i>
 </td>
