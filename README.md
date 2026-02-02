@@ -126,7 +126,6 @@
 * 🌟 Fun fact: Building the future through education and technology!  
 
 ---
-
 ## 💬 Inspiration
 
 <div align="center">
