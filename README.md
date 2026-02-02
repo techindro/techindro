@@ -18,7 +18,6 @@
 </div>
 
 ---
-
 ## 🎯 About Me
 
 <table>
