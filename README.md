@@ -28,7 +28,7 @@
 * 🚀 **Space Technology** - Satellite systems & automation  
 * ⚡ **EV Systems & Robotics** - Innovation in mobility  
 * 📱 **Mobile App Development** - Android & cross-platform  
-* 🎓 **Educational Creator** - 90K+ community members  
+* 🎓 **Educational Creator** - 250K+ community members  
 * 💼 **Tech Consultant** - Business analytics & strategy  
 
     </td>
