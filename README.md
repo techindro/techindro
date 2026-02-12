@@ -12,7 +12,7 @@
 
 <div align="center">
   <strong>Interact with Tech Indro's AI Assistant 👇</strong><br><br>
-  <a href="https://chat.openai.com/" target="_blank">
+  <a href="https://techindro.github.io/tech_indro_ai_chatbot/ target="_blank">
     <img src="https://img.shields.io/badge/Talk%20to%20ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Link">
   </a>
 </div>
