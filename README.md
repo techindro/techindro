@@ -12,7 +12,7 @@
 
 <div align="center">
   <strong>Interact with Tech Indro's AI Assistant 👇</strong><br><br>
-  <a href="https://techindro.github.io/tech_indro_ai_chatbot/ target="_blank">
+  <a href="https://techindro.github.io/tech_indro_ai_chatbot/" target="_blank">
     <img src="https://img.shields.io/badge/Talk%20to%20Tech%20Indro-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000" alt="techindro chatbot Link">
   </a>
 </div>
@@ -64,7 +64,6 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/filmora-logo-icon.svg" width="48" height="48" alt="Filmora"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/KineMaster_256px.png" width="48" height="48" alt="KineMaster"/>
- 
 </p>
 </div>
 
