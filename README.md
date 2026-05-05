@@ -12,12 +12,13 @@
 
 <div align="center">
   <strong>Interact with Tech Indro's AI Assistant 👇</strong><br><br>
-  <a href="https://techindro.github.io/tech_indro_ai_chatbot/ target="_blank">
+  <a href="https://techindro.github.io/tech_indro_ai_chatbot/" target="_blank">
     <img src="https://img.shields.io/badge/Talk%20to%20Tech%20Indro-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000" alt="techindro chatbot Link">
   </a>
 </div>
 
 ---
+
 ## 🎯 About Me
 
 <table>
@@ -56,16 +57,16 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,aws&theme=dark" alt="Frameworks"/>
 </p>
 
-
 ### Video Editing & Content Creation
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/filmora-logo-icon.svg" width="48" height="48" alt="Filmora"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/KineMaster_256px.png" width="48" height="48" alt="KineMaster"/>
- 
-</p>
+
+<table align="center"><tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="48" height="48" alt="Premiere Pro"/></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="48" height="48" alt="After Effects"/></td>
+<td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/filmora-logo-icon.svg" width="48" height="48" alt="Filmora"/></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/KineMaster_256px.png" width="48" height="48" alt="KineMaster"/></td>
+</tr></table>
+
 </div>
 
 ---
@@ -95,16 +96,15 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://twitter.com/techindro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techindro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubhampateltechindro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampateltechindro" height="30" width="40" /></a>
-<a href="https://fb.com/techindro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techindro" height="30" width="40" /></a>
-<a href="https://instagram.com/tech.indro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech.indro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/goinfinitymotivationword" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="goinfinitymotivationword" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhamkumarpat4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamkumarpat4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/techindro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="techindro" height="30" width="40" /></a>
-</p>
-</div>
+<table align="center"><tr>
+<td><a href="https://twitter.com/techindro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techindro" height="30" width="40" /></a></td>
+<td><a href="https://linkedin.com/in/shubhampateltechindro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampateltechindro" height="30" width="40" /></a></td>
+<td><a href="https://fb.com/techindro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techindro" height="30" width="40" /></a></td>
+<td><a href="https://instagram.com/tech.indro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech.indro" height="30" width="40" /></a></td>
+<td><a href="https://www.youtube.com/c/goinfinitymotivationword" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="goinfinitymotivationword" height="30" width="40" /></a></td>
+<td><a href="https://www.hackerrank.com/shubhamkumarpat4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamkumarpat4" height="30" width="40" /></a></td>
+<td><a href="https://www.leetcode.com/techindro" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="techindro" height="30" width="40" /></a></td>
+</tr></table>
 
 ---
 
@@ -125,6 +125,7 @@
 * 🌟 Fun fact: Building the future through education and technology!  
 
 ---
+
 ## 💬 Inspiration
 
 <div align="center">
