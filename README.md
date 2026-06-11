@@ -144,7 +144,7 @@
 <i>"“The people who are crazy enough to think they can change the world are the ones who do.” — Steve Jobs."</i>
 </td>
 <td align="center" width="33%">
-<img src="c" width="120" style="border-radius: 50%"/><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Stephen_hawking_2008_nasa.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Stephen Hawking</b><br>
 <i>"Look up at the stars and not down at your feet. Try to make sense of what you see."</i>
 </td>
