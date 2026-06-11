@@ -136,7 +136,8 @@
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Elon Musk</b><br>
-<i>"No, I don't ever give up. I'd have to be dead or completely incapacitated― Elon Musk."</i>
+<i>"No, I don't ever give up. I'd have to be dead or completely incapacitated
+  ― Elon Musk."</i>
 </td>
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Steve_Jobs_WWDC07.jpg" width="120" style="border-radius: 50%"/><br>
