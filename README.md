@@ -139,7 +139,7 @@
 <i>"The first step is to establish that something is possible; then probability will occur."</i>
 </td>
 <td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/220px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg" width="120" style="border-radius: 50%"/><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Steve_Jobs_WWDC07.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Steve Jobs</b><br>
 <i>"Innovation distinguishes between a leader and a follower."</i>
 </td>
