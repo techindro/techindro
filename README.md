@@ -136,12 +136,12 @@
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Elon Musk</b><br>
-<i>"The first step is to establish that something is possible; then probability will occur."</i>
+<i>"No, I don't ever give up. I'd have to be dead or completely incapacitated― Elon Musk."</i>
 </td>
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Steve_Jobs_WWDC07.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Steve Jobs</b><br>
-<i>"Innovation distinguishes between a leader and a follower."</i>
+<i>"“The people who are crazy enough to think they can change the world are the ones who do.” — Steve Jobs."</i>
 </td>
 <td align="center" width="33%">
 <img src="c" width="120" style="border-radius: 50%"/><br>
