@@ -134,7 +134,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/220px-Elon_Musk_2015.jpg" width="120" style="border-radius: 50%"/><br>
+<img src="https://media.vanityfair.com/photos/5a7b182c9b38580e8603ca4f/master/w_2560,c_limit/elon-musk-showman-rocket.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Elon Musk</b><br>
 <i>"The first step is to establish that something is possible; then probability will occur."</i>
 </td>
@@ -144,7 +144,7 @@
 <i>"Innovation distinguishes between a leader and a follower."</i>
 </td>
 <td align="center" width="33%">
-<img src="https://images-assets.nasa.gov/image/200804210005HQ/200804210005HQ~medium.jpg" width="120" style="border-radius: 50%"/><br>
+<img src="c" width="120" style="border-radius: 50%"/><br>
 <b>Stephen Hawking</b><br>
 <i>"Look up at the stars and not down at your feet. Try to make sense of what you see."</i>
 </td>
