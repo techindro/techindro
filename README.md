@@ -12,7 +12,8 @@
 
 <div align="center">
   <strong>Interact with Tech Indro's AI Assistant 👇</strong><br><br>
-<a href="https://raplica-ai.onrender.com" target="_blank">
+<a href="https://raplica-ai.onrender.com" target="_blank" rel="noopener">Raplica AI</a>
+
     <img src="https://img.shields.io/badge/Talk%20to%20Replica%20AI-FFFFFF?style=for-the-badge&logo=openai&logoColor=000000" alt="raplicaAI chatbot Link">
   </a>
 </div>
