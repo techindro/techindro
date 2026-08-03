@@ -55,7 +55,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,aws,docker,kubernetes&theme=dark" alt="Frameworks"/>
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white" alt="Simulink"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/git.png" width="48" height="48" alt="Git"/>
 </p>
 
