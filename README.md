@@ -90,7 +90,7 @@
   <img src="https://github.com/gazebosim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Gazebo"/>
   <img src="https://github.com/isaac-sim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="NVIDIA Isaac Sim"/>
   <img src="https://github.com/openrocket.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="OpenRocket"/>
-  <img src="https://img.shields.io/badge/SolidWorks-E11E24?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="SolidWorks"/>
 </p>
 
 ### Systems & Dev Environment
