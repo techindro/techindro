@@ -85,7 +85,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
-  <img src="https://svg-viewer.fileformat.info/favicon.svg" alt="OpenCV"/>
+  <img src="https://jumpshare.com/s/kMSEcsomwncYmxeGK9AO" alt="OpenCV"/>
   <img src="https://github.com/ros.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="ROS"/>
   <img src="https://github.com/gazebosim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Gazebo"/>
   <img src="https://github.com/isaac-sim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="NVIDIA Isaac Sim"/>
