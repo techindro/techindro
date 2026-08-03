@@ -64,11 +64,11 @@
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="assets/langgraph.png" width="48" height="48" alt="LangGraph"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" alt="Kaggle"/>
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/huggingface-color.png" width="48" height="48" alt="Hugging Face"/>
+  <img src="https://images.seeklogo.com/logo-png/33/1/kaggle-logo-png_seeklogo-335156.png" width="48" alt="Kaggle"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hf-logo-without-title.svg" width="48" height="48" alt="Hugging Face"/>
   <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity"/>
   <img src="https://github.com/modelcontextprotocol.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="MCP"/>
-  <img src="assets/openclaw.png" width="48" height="48" alt="OpenClaw"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw-dark.png" width="48" height="48" alt="OpenClaw"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama.png" width="48" height="48" alt="Ollama"/>
 </p>
 
@@ -112,7 +112,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/KineMaster_256px.png" width="48" height="48" alt="KineMaster"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/capcut.png" width="48" height="48" alt="CapCut"/>
-  <img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="48" height="48" alt="OBS Studio"/>
 </p>
 </div>
 
