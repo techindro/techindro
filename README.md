@@ -64,11 +64,12 @@
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="assets/langgraph.png" width="48" height="48" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" alt="Kaggle"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/huggingface-color.png" width="48" height="48" alt="Hugging Face"/>
   <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity"/>
   <img src="https://github.com/modelcontextprotocol.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="MCP"/>
   <img src="assets/openclaw.png" width="48" height="48" alt="OpenClaw"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama.png" width="48" height="48" alt="Ollama"/>
 </p>
 
 ### Data Science, Analytics & BI
