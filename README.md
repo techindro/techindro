@@ -56,7 +56,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,aws,docker,kubernetes&theme=dark" alt="Frameworks"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/git.png" width="48" height="48" alt="Git"/>
-  <img src="https://download.logo.wine/logo/Stack_Overflow/Stack_Overflow-Logo.wine.png" width="48" height="48" alt="Stackoverflow"/>
 </p>
 
 ### AI / ML Frameworks & Platforms
