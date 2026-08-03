@@ -53,9 +53,53 @@
 ### Frameworks & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,aws&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,aws,docker,kubernetes&theme=dark" alt="Frameworks"/>
 </p>
 
+### AI / ML Frameworks & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/OpenClaw%20🦞-CC3300?style=for-the-badge" alt="OpenClaw"/>
+</p>
+
+### Data Science, Analytics & BI
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+### Robotics, Simulation & CAD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/SolidWorks-E11E24?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
+  <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Isaac Sim"/>
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
+  <img src="https://img.shields.io/badge/OpenRocket-2E7D32?style=for-the-badge&logo=rocket&logoColor=white" alt="OpenRocket"/>
+</p>
+
+### Systems, Dev Environment & Content Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Termux"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
+  <img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio"/>
+</p>
 
 ### Video Editing & Content Creation
 <p>
@@ -64,7 +108,6 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/filmora-logo-icon.svg" width="48" height="48" alt="Filmora"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/KineMaster_256px.png" width="48" height="48" alt="KineMaster"/>
- 
 </p>
 </div>
 
@@ -86,7 +129,7 @@
 ## 🌟 Featured Projects
 
 | Project                      | Tech Stack                | Impact               |
-| ---------------------------- | ------------------------- | -------------------- |
+| ---------------------------- | -------------------------- | -------------------- |
 | 🤖 **AI Education Platform** | React, Python, TensorFlow | 250K+ learners        |
 | 🚀 **Space Tech Solutions**  | IoT, Robotics, ML         | Satellite automation |
 | ⚡ **EV Integration Systems** | Kotlin, Python, Cloud     | Smart mobility       |
