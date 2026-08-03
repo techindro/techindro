@@ -62,7 +62,7 @@
 ### AI / ML Frameworks & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/langchain-color.png" width="48" alt="LangChain"/>
   <img src="assets/langgraph.png" width="48" height="48" alt="LangGraph"/>
   <img src="https://images.seeklogo.com/logo-png/33/1/kaggle-logo-png_seeklogo-335156.png" width="48" alt="Kaggle"/>
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hf-logo-without-title.svg" width="48" height="48" alt="Hugging Face"/>
