@@ -66,7 +66,7 @@
   <img src="assets/langgraph.png" width="48" height="48" alt="LangGraph"/>
   <img src="https://images.seeklogo.com/logo-png/33/1/kaggle-logo-png_seeklogo-335156.png" width="48" alt="Kaggle"/>
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hf-logo-without-title.svg" width="48" height="48" alt="Hugging Face"/>
-  <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/google-antigravity.png" width="48" height="48" alt="Antigravity"/>
   <img src="https://github.com/modelcontextprotocol.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="MCP"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw-dark.png" width="48" height="48" alt="OpenClaw"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama.png" width="48" height="48" alt="Ollama"/>
