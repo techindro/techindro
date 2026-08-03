@@ -48,7 +48,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,java,cpp,c&theme=dark" alt="Languages"/>
-  <img src="assets/matlab.png" width="48" height="48" alt="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/matlab.png" width="48" height="48" alt="MATLAB"/>
 </p>
 
 ### Frameworks & Tools
@@ -56,7 +56,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,aws,docker,kubernetes&theme=dark" alt="Frameworks"/>
   <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white" alt="Simulink"/>
-  <img src="assets/git.png" width="48" height="48" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/git.png" width="48" height="48" alt="Git"/>
 </p>
 
 ### AI / ML Frameworks & Platforms
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="assets/langgraph.png" width="48" height="48" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  <img src="assets/huggingface.png" width="48" height="48" alt="Hugging Face"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/huggingface-color.png" width="48" height="48" alt="Hugging Face"/>
   <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity"/>
   <img src="https://github.com/modelcontextprotocol.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="MCP"/>
   <img src="assets/openclaw.png" width="48" height="48" alt="OpenClaw"/>
@@ -96,11 +96,11 @@
 ### Systems & Dev Environment
 
 <p>
-  <img src="assets/linux.png" width="48" height="48" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linux.png" width="48" height="48" alt="Linux"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://github.com/termux.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Termux"/>
-  <img src="assets/cursor.png" width="48" height="48" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/cursor.png" width="48" height="48" alt="Cursor"/>
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/replit-color.png" width="48" height="48" alt="Replit"/>
 </p>
 
 ### Video Editing & Content Creation
@@ -110,7 +110,7 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/filmora-logo-icon.svg" width="48" height="48" alt="Filmora"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/KineMaster_256px.png" width="48" height="48" alt="KineMaster"/>
-  <img src="assets/capcut.png" width="48" height="48" alt="CapCut"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/capcut.png" width="48" height="48" alt="CapCut"/>
   <img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio"/>
 </p>
 </div>
