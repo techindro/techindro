@@ -84,8 +84,8 @@
 ### Robotics, Simulation & CAD
 
 <p>
+  <img src="https://www.freelogovectors.net/wp-content/uploads/2019/02/OpenCV_Logo.png" width="48" height"48" alt="OpenCV"/>
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
-  <img src="https://www.freelogovectors.net/wp-content/uploads/2019/02/OpenCV_Logo.png" width="48" alt="OpenCV"/>
   <img src="https://github.com/ros.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="ROS"/>
   <img src="https://github.com/gazebosim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Gazebo"/>
   <img src="https://github.com/isaac-sim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="NVIDIA Isaac Sim"/>
