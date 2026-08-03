@@ -92,6 +92,7 @@
   <img src="https://github.com/isaac-sim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="NVIDIA Isaac Sim"/>
   <img src="https://github.com/openrocket.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="OpenRocket"/>
   <img src="https://img.icons8.com/color/48/solidworks.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="SolidWorks"/>
+  <img src="https://download.logo.wine/logo/Stack_Overflow/Stack_Overflow-Logo.wine.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Stackoverflow"/>
 </p>
 
 ### Systems & Dev Environment
