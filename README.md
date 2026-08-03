@@ -103,6 +103,7 @@
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/replit-color.png" width="48" height="48" alt="Replit"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vercel-light.png" width="48" height="48" alt="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/google-antigravity.png" width="48" height="48" alt="Antigravity"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/apache-kafka.png" width="48" height="48" alt="Kafka"/>
 </p>"
 
 ### Video Editing & Content Creation
