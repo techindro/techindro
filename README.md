@@ -48,7 +48,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,java,cpp,c&theme=dark" alt="Languages"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="assets/matlab.png" width="48" height="48" alt="MATLAB"/>
 </p>
 
 ### Frameworks & Tools
@@ -56,19 +56,19 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,aws,docker,kubernetes&theme=dark" alt="Frameworks"/>
   <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white" alt="Simulink"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="assets/git.png" width="48" height="48" alt="Git"/>
 </p>
 
 ### AI / ML Frameworks & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="assets/langgraph.png" width="48" height="48" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
-  <img src="https://github.com/modelcontextprotocol.png" width="41" height="41" style="border-radius:8px;vertical-align:middle" alt="MCP"/>
-  <img src="https://github.com/openclaw.png" width="41" height="41" style="border-radius:8px;vertical-align:middle" alt="OpenClaw"/>
+  <img src="assets/huggingface.png" width="48" height="48" alt="Hugging Face"/>
+  <img src="assets/antigravity.png" width="48" height="48" alt="Antigravity"/>
+  <img src="https://github.com/modelcontextprotocol.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="MCP"/>
+  <img src="assets/openclaw.png" width="48" height="48" alt="OpenClaw"/>
 </p>
 
 ### Data Science, Analytics & BI
@@ -86,18 +86,20 @@
 <p>
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://github.com/ros.png" width="41" height="41" style="border-radius:8px;vertical-align:middle" alt="ROS"/>
-  <img src="https://github.com/gazebosim.png" width="41" height="41" style="border-radius:8px;vertical-align:middle" alt="Gazebo"/>
-  <img src="https://github.com/isaac-sim.png" width="41" height="41" style="border-radius:8px;vertical-align:middle" alt="NVIDIA Isaac Sim"/>
-  <img src="https://github.com/openrocket.png" width="41" height="41" style="border-radius:8px;vertical-align:middle" alt="OpenRocket"/>
+  <img src="https://github.com/ros.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="ROS"/>
+  <img src="https://github.com/gazebosim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Gazebo"/>
+  <img src="https://github.com/isaac-sim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="NVIDIA Isaac Sim"/>
+  <img src="https://github.com/openrocket.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="OpenRocket"/>
   <img src="https://img.shields.io/badge/SolidWorks-E11E24?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks"/>
 </p>
 
 ### Systems & Dev Environment
 
 <p>
-  <img src="https://github.com/termux.png" width="41" height="41" style="border-radius:8px;vertical-align:middle" alt="Termux"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="assets/linux.png" width="48" height="48" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://github.com/termux.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Termux"/>
+  <img src="assets/cursor.png" width="48" height="48" alt="Cursor"/>
   <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
 </p>
 
@@ -108,6 +110,7 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/filmora-logo-icon.svg" width="48" height="48" alt="Filmora"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/KineMaster_256px.png" width="48" height="48" alt="KineMaster"/>
+  <img src="assets/capcut.png" width="48" height="48" alt="CapCut"/>
   <img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio"/>
 </p>
 </div>
