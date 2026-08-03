@@ -101,7 +101,8 @@
   <img src="https://github.com/termux.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Termux"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/cursor.png" width="48" height="48" alt="Cursor"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/replit-color.png" width="48" height="48" alt="Replit"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vercel-light.png" width="48" height="48" alt="Vercel"/>
+</p>"
 
 ### Video Editing & Content Creation
 <p>
