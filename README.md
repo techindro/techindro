@@ -97,7 +97,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linux.png" width="48" height="48" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/kali-linux.png" width="48" height="48" alt="Kali Linux"/>
   <img src="https://github.com/termux.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Termux"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/cursor.png" width="48" height="48" alt="Cursor"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/replit-color.png" width="48" height="48" alt="Replit"/>
