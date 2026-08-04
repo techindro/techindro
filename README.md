@@ -78,7 +78,7 @@
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="48" height="48" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="48" height="48" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" width="48" height="48" alt="Power BI"/>
 </p>
 
 ### Robotics, Simulation & CAD
