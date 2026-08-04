@@ -63,7 +63,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/langchain-color.png" width="48" alt="LangChain"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/langgraph-color.png" width="48" height="48" alt="LangGraph"/>
-  <img src="https://images.seeklogo.com/logo-png/33/1/kaggle-logo-png_seeklogo-335156.png" width="48" alt="Kaggle"/>
+  <img src="https://cdn.phototourl.com/free/2026-08-04-a9398091-b591-45de-8fa6-db76a27eeeb8.png" width="48" alt="NLP"/>
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hf-logo-without-title.svg" width="48" height="48" alt="Hugging Face"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fastapi.png" width="48" height="48" alt="Fast API"/>
   <img src="https://github.com/modelcontextprotocol.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="MCP"/>
@@ -77,6 +77,7 @@
   <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="48" height="48" alt="NumPy"/>
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="48" height="48" alt="Pandas"/>
   <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" width="48" height="48" alt="Matplotlib"/>
+  <img src="https://images.seeklogo.com/logo-png/33/1/kaggle-logo-png_seeklogo-335156.png" width="48" alt="Kaggle"/>
   <img src="https://cdn.phototourl.com/free/2026-08-04-00b558a0-98c8-4842-b48a-5f09cdd10052.png" width="48" height="48" alt="Scikit learn"/>
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="48" height="48" alt="Tableau"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" width="48" height="48" alt="Power BI"/>
