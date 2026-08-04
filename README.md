@@ -105,7 +105,7 @@
   <img src="https://github.com/termux.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Termux"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/cursor.png" width="48" height="48" alt="Cursor"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/replit-color.png" width="48" height="48" alt="Replit"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vercel-light.png" width="48" height="48" alt="Vercel"/>
+  <img src="https://cdn.phototourl.com/free/2026-08-04-5d7bc9ef-0b28-4d6f-bfea-9efd562e3098.png" width="48" height="48" alt="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/google-antigravity.png" width="48" height="48" alt="Antigravity"/>
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/apache-kafka.png" width="48" height="48" alt="Kafka"/>
 </p>
