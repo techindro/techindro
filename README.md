@@ -81,6 +81,7 @@
   <img src="https://cdn.phototourl.com/free/2026-08-04-00b558a0-98c8-4842-b48a-5f09cdd10052.png" width="48" height="48" alt="Scikit learn"/>
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="48" height="48" alt="Tableau"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" width="48" height="48" alt="Power BI"/>
+  <img src="https://cdn.phototourl.com/free/2026-08-04-70316119-737b-46e7-9ee7-3a0afb11cb9d.png" width="48" height="48" alt="Collabs"
 </p>
 
 ### Robotics, Simulation & CAD
