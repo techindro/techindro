@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Shubham Patel (Tech Indro)
 
-### AI Enthusiast | Space Tech 🚀 | Robotics 🤖 | Entrepreneurship 🎓
+ ### AI Enthusiast | Space Tech 🚀 | Robotics 🤖 | Entrepreneurship 🎓
 
 ---
 ## 🤖 Live AI Assistant Chatbot
