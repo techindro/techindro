@@ -7,7 +7,7 @@
 
  ### AI Enthusiast | Space Tech 🚀 | Robotics 🤖 | Entrepreneurship 🎓
 
----
+--- 
 ## 🤖 Live AI Assistant Chatbot
 
 <div align="center">
