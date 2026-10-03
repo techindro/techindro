@@ -81,13 +81,13 @@
   <img src="https://cdn.phototourl.com/free/2026-08-04-00b558a0-98c8-4842-b48a-5f09cdd10052.png" width="48" height="48" alt="Scikit learn"/>
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="48" height="48" alt="Tableau"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" width="48" height="48" alt="Power BI"/>
-  <img src="https://cdn.phototourl.com/free/2026-08-04-70316119-737b-46e7-9ee7-3a0afb11cb9d.png" width="48" height="48" alt="Collabs"
+  <img src="https://cdn.phototourl.com/free/2026-08-04-70316119-737b-46e7-9ee7-3a0afb11cb9d.png" width="48" height="48" alt="Collabs"/>
 </p>
 
 ### Robotics, Simulation & CAD
 
 <p>
-  <img src="https://www.freelogovectors.net/wp-content/uploads/2019/02/OpenCV_Logo.png" width="48" height"48" alt="OpenCV"/>
+  <img src="https://www.freelogovectors.net/wp-content/uploads/2019/02/OpenCV_Logo.png" width="48" height="48" alt="OpenCV"/>
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino"/>
   <img src="https://github.com/ros.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="ROS"/>
   <img src="https://github.com/gazebosim.png" width="48" height="48" style="border-radius:8px;vertical-align:middle" alt="Gazebo"/>
@@ -134,6 +134,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techindro&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techindro/techindro/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techindro/techindro/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/techindro/techindro/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## 🌟 Featured Projects
@@ -157,7 +167,6 @@
 <a href="https://www.hackerrank.com/shubhamkumarpat4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamkumarpat4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/techindro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="techindro" height="30" width="40" /></a>
 </p>
-</div>
 
 ---
 
@@ -189,13 +198,12 @@
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Elon Musk</b><br>
-<i>"No, I don't ever give up. I'd have to be dead or completely incapacitated
-  ― Elon Musk."</i>
+<i>"No, I don't ever give up. I'd have to be dead or completely incapacitated."</i>
 </td>
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Steve_Jobs_WWDC07.jpg" width="120" style="border-radius: 50%"/><br>
 <b>Steve Jobs</b><br>
-<i>"“The people who are crazy enough to think they can change the world are the ones who do.” — Steve Jobs."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 </td>
 <td align="center" width="33%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Stephen_hawking_2008_nasa.jpg" width="120" style="border-radius: 50%"/><br>
@@ -211,7 +219,7 @@
 
 <div align="center">
 
-### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING , YOU ARE NOT INNOVATING ENOUGH"* – ELON MUSK
+### *"FAILURE IS AN OPTION HERE, IF THINGS ARE NOT FAILING, YOU ARE NOT INNOVATING ENOUGH"* – ELON MUSK
 
 <img src="https://komarev.com/ghpvc/?username=techindro&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 
