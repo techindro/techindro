@@ -134,16 +134,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techindro&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techindro/techindro/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techindro/techindro/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/techindro/techindro/output/github-snake.svg" />
-  </picture>
-</div>
-
 ---
 
 ## 🌟 Featured Projects
@@ -213,6 +203,16 @@
 </tr>
 </table>
 
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techindro/techindro/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techindro/techindro/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/techindro/techindro/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
